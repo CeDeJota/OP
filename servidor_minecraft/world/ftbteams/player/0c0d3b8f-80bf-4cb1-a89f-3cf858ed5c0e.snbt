@@ -1,0 +1,15 @@
+{
+	id: "0c0d3b8f-80bf-4cb1-a89f-3cf858ed5c0e"
+	type: "player"
+	player_name: "DocTom02"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "DocTom02"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

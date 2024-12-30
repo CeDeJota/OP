@@ -1,0 +1,17 @@
+{
+	id: "436d1021-6c41-3a5e-bf34-e68e410dba94"
+	type: "player"
+	player_name: "CeDeJota"
+	ranks: {
+		436d1021-6c41-3a5e-bf34-e68e410dba94: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CeDeJota"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

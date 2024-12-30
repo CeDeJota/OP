@@ -1,0 +1,23 @@
+{
+	id: "053284f3-77d2-4b93-9f2c-117be43ea2de"
+	type: "party"
+	owner: "97b37361-f32a-4e2a-80ad-f9267437b426"
+	ranks: {
+		97b37361-f32a-4e2a-80ad-f9267437b426: "owner"
+		0c0d3b8f-80bf-4cb1-a89f-3cf858ed5c0e: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "COCAINOMANOS"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DB59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735423801664L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"CeDeJota\"}]}" }
+		{ from: "97b37361-f32a-4e2a-80ad-f9267437b426", date: 1735423801668L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"DocTom02\"}]}" }
+		{ from: "97b37361-f32a-4e2a-80ad-f9267437b426", date: 1735424600108L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"DocTom02\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735424609075L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DocTom02\"}]}" }
+	]
+	extra: { }
+}
