@@ -15353,3 +15353,19 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [30Dec2024 22:54:08.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
 [30Dec2024 22:54:08.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
 [30Dec2024 22:54:08.906] [IO-Worker-307/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-309
+[30Dec2024 22:59:08.827] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-310
+[30Dec2024 22:59:08.827] [IO-Worker-310/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-311
+[30Dec2024 22:59:08.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[30Dec2024 22:59:08.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[30Dec2024 22:59:08.907] [IO-Worker-310/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-312
+[30Dec2024 23:04:08.827] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-313
+[30Dec2024 23:04:08.828] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-314
+[30Dec2024 23:04:08.828] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-315
+[30Dec2024 23:04:08.830] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-316
+[30Dec2024 23:04:08.830] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-317
+[30Dec2024 23:04:08.830] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-318
+[30Dec2024 23:04:08.831] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-319
+[30Dec2024 23:04:08.832] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-320
+[30Dec2024 23:04:08.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[30Dec2024 23:04:08.834] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-321
+[30Dec2024 23:04:08.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
