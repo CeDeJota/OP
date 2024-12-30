@@ -14536,3 +14536,21 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [30Dec2024 15:49:08.827] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
 [30Dec2024 15:49:08.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
 [30Dec2024 15:49:08.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[30Dec2024 15:54:08.827] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[30Dec2024 15:54:08.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[30Dec2024 15:54:08.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[30Dec2024 15:55:26.152] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing Varint21FrameDecoderMixin from packetfixer-common.mixins.json into net.minecraft.network.Varint21FrameDecoder
+[30Dec2024 15:55:26.158] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing Varint21LengthFieldPrependerMixin from packetfixer-common.mixins.json into net.minecraft.network.Varint21LengthFieldPrepender
+[30Dec2024 15:55:26.161] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing PacketEncoderMixin from packetfixer-common.mixins.json into net.minecraft.network.PacketEncoder
+[30Dec2024 15:55:26.188] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing ClientboundMapItemDataPacketMixin from create.mixins.json into net.minecraft.network.protocol.game.ClientboundMapItemDataPacket
+[30Dec2024 15:55:26.192] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing MapItemDataPacketMixin from moonlight-common.mixins.json into net.minecraft.network.protocol.game.ClientboundMapItemDataPacket
+[30Dec2024 15:55:26.192] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$moonlight$sendCustomDecorations$1(I)[Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration; to mdf8dbba$lambda$moonlight$sendCustomDecorations$1$0 in moonlight-common.mixins.json:MapItemDataPacketMixin
+[30Dec2024 15:55:26.193] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$moonlight$sendCustomDecorations$0(Lnet/minecraft/network/FriendlyByteBuf;Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration;)Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration; to mdf8dbba$lambda$moonlight$sendCustomDecorations$0$1 in moonlight-common.mixins.json:MapItemDataPacketMixin
+[30Dec2024 15:55:26.221] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing ClientboundSetEntityMotionPacketMixin from mixins.cofhcore.json into net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket
+[30Dec2024 15:55:27.122] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[30Dec2024 15:55:27.123] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[30Dec2024 15:55:27.123] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[30Dec2024 15:55:27.123] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
+[30Dec2024 15:59:08.827] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[30Dec2024 15:59:08.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[30Dec2024 15:59:08.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
