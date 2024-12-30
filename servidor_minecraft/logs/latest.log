@@ -1147,3 +1147,15 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:640) ~[server-1.20.1-20230612.114412-srg.jar%23437!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23437!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[30Dec2024 17:16:15.977] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[30Dec2024 17:16:16.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CeDeJota[/127.246.80.153:55975] logged in with entity id 70 at (-73.30294021886462, 63.0, 722.1556923284563)
+[30Dec2024 17:16:16.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota joined the game
+[30Dec2024 17:16:16.261] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to CeDeJota
+[30Dec2024 17:16:17.388] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from CeDeJota
+[30Dec2024 17:16:17.779] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CeDeJota (18)
+[30Dec2024 17:16:17.782] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CeDeJota
+[30Dec2024 17:17:44.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Set own game mode to Creative Mode]
+[30Dec2024 17:18:09.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Set own game mode to Survival Mode]
+[30Dec2024 17:19:35.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota lost connection: Disconnected
+[30Dec2024 17:19:35.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota left the game
+[30Dec2024 17:19:35.940] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CeDeJota
