@@ -1,0 +1,17 @@
+{
+	id: "0d5e0127-7d0f-3415-8499-71801c062d17"
+	type: "player"
+	player_name: "DocTom02"
+	ranks: {
+		0d5e0127-7d0f-3415-8499-71801c062d17: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DocTom02"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8659"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
