@@ -15285,3 +15285,18 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [31Dec2024 16:42:59.671] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
 [31Dec2024 16:42:59.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
 [31Dec2024 16:42:59.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[31Dec2024 16:47:59.669] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[31Dec2024 16:47:59.669] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[31Dec2024 16:47:59.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[31Dec2024 16:47:59.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[31Dec2024 16:47:59.759] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[31Dec2024 16:52:59.668] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[31Dec2024 16:52:59.668] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[31Dec2024 16:52:59.671] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[31Dec2024 16:52:59.672] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[31Dec2024 16:52:59.673] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[31Dec2024 16:52:59.673] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[31Dec2024 16:52:59.674] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[31Dec2024 16:52:59.674] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[31Dec2024 16:52:59.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[31Dec2024 16:52:59.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
