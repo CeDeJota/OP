@@ -14915,3 +14915,40 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [31Dec2024 16:04:57.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 has made the advancement [Getting an Upgrade]
 [31Dec2024 16:05:36.123] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1346, l='ServerLevel[aaa]', x=-197.50, y=72.00, z=32.50]
 [31Dec2024 16:06:06.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1402, l='ServerLevel[aaa]', x=-202.50, y=73.00, z=44.50]
+[31Dec2024 16:06:40.754] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[31Dec2024 16:06:40.756] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[31Dec2024 16:06:40.757] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[31Dec2024 16:07:13.426] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1989, l='ServerLevel[aaa]', x=-209.50, y=72.00, z=48.50]
+[31Dec2024 16:07:19.251] [Worker-Main-4/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31Dec2024 16:07:20.252] [Worker-Main-4/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31Dec2024 16:07:20.264] [Worker-Main-4/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31Dec2024 16:07:20.418] [Worker-Main-4/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[31Dec2024 16:07:59.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[31Dec2024 16:07:59.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[31Dec2024 16:09:01.006] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[31Dec2024 16:10:05.260] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[31Dec2024 16:10:39.010] [Worker-Main-12/DEBUG] [mixin/]: Mixing foundation.copycat.multistate.AirCurrentMixin from copycats-common.mixins.json into com.simibubi.create.content.kinetics.fan.AirCurrent
+[31Dec2024 16:10:39.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DocTom02) moved too quickly! -7.051175008823748,0.0,7.64466319460405
+[31Dec2024 16:10:39.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DocTom02) moved too quickly! -7.322374047612357,0.0,7.938688702104287
+[31Dec2024 16:10:39.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DocTom02) moved too quickly! -7.593573086400738,0.0,8.232714209604865
+[31Dec2024 16:10:39.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DocTom02) moved too quickly! -7.8647721251888925,0.0,8.526739717105784
+[31Dec2024 16:10:39.773] [Server thread/DEBUG] [mixin/]: Mixing FluidNetworkMixin from railways.mixins.json into com.simibubi.create.content.fluids.FluidNetwork
+[31Dec2024 16:10:53.146] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[31Dec2024 16:10:53.146] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md01f47f$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[31Dec2024 16:12:13.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 drowned
+[31Dec2024 16:12:14.399] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[31Dec2024 16:12:14.407] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[31Dec2024 16:12:14.827] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Dec2024 16:12:59.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[31Dec2024 16:12:59.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[31Dec2024 16:13:44.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 was shot by Skeleton
+[31Dec2024 16:13:47.072] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Dec2024 16:15:21.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 was slain by Skeleton
+[31Dec2024 16:15:22.622] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[31Dec2024 16:15:22.739] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[31Dec2024 16:15:22.740] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[31Dec2024 16:15:32.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DocTom02 lost connection: Disconnected
+[31Dec2024 16:15:32.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 left the game
+[31Dec2024 16:15:32.074] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DocTom02
+[31Dec2024 16:15:32.075] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DocTom02
+[31Dec2024 16:16:22.836] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown

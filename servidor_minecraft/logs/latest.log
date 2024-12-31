@@ -1165,3 +1165,16 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [31Dec2024 16:04:57.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 has made the advancement [Getting an Upgrade]
 [31Dec2024 16:05:36.123] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1346, l='ServerLevel[aaa]', x=-197.50, y=72.00, z=32.50]
 [31Dec2024 16:06:06.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1402, l='ServerLevel[aaa]', x=-202.50, y=73.00, z=44.50]
+[31Dec2024 16:07:13.426] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1989, l='ServerLevel[aaa]', x=-209.50, y=72.00, z=48.50]
+[31Dec2024 16:10:39.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DocTom02) moved too quickly! -7.051175008823748,0.0,7.64466319460405
+[31Dec2024 16:10:39.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DocTom02) moved too quickly! -7.322374047612357,0.0,7.938688702104287
+[31Dec2024 16:10:39.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DocTom02) moved too quickly! -7.593573086400738,0.0,8.232714209604865
+[31Dec2024 16:10:39.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DocTom02) moved too quickly! -7.8647721251888925,0.0,8.526739717105784
+[31Dec2024 16:12:13.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 drowned
+[31Dec2024 16:12:14.827] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Dec2024 16:13:44.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 was shot by Skeleton
+[31Dec2024 16:13:47.072] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Dec2024 16:15:21.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 was slain by Skeleton
+[31Dec2024 16:15:32.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DocTom02 lost connection: Disconnected
+[31Dec2024 16:15:32.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 left the game
+[31Dec2024 16:15:32.075] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DocTom02
