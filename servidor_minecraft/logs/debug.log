@@ -15273,3 +15273,15 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [31Dec2024 16:34:48.781] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CeDeJota
 [31Dec2024 16:35:48.821] [Worker-Main-47/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-47 shutdown
 [31Dec2024 16:36:48.821] [Worker-Main-46/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-46 shutdown
+[31Dec2024 16:37:48.821] [Worker-Main-48/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-48 shutdown
+[31Dec2024 16:37:59.676] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[31Dec2024 16:37:59.676] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[31Dec2024 16:37:59.681] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[31Dec2024 16:37:59.683] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[31Dec2024 16:37:59.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[31Dec2024 16:37:59.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[31Dec2024 16:42:59.668] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[31Dec2024 16:42:59.668] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[31Dec2024 16:42:59.671] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[31Dec2024 16:42:59.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[31Dec2024 16:42:59.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
