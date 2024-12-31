@@ -1178,3 +1178,12 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [31Dec2024 16:15:32.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DocTom02 lost connection: Disconnected
 [31Dec2024 16:15:32.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 left the game
 [31Dec2024 16:15:32.075] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DocTom02
+[31Dec2024 16:34:14.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CeDeJota[/127.246.80.153:50507] logged in with entity id 9953 at (-76.19219934016081, 63.5, 723.0610745955828)
+[31Dec2024 16:34:14.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota joined the game
+[31Dec2024 16:34:14.787] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to CeDeJota
+[31Dec2024 16:34:17.079] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from CeDeJota
+[31Dec2024 16:34:17.154] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CeDeJota (18)
+[31Dec2024 16:34:17.155] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CeDeJota
+[31Dec2024 16:34:48.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota lost connection: Disconnected
+[31Dec2024 16:34:48.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota left the game
+[31Dec2024 16:34:48.781] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CeDeJota
