@@ -1187,3 +1187,33 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [01Jan2025 14:58:19.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota lost connection: Disconnected
 [01Jan2025 14:58:19.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota left the game
 [01Jan2025 14:58:19.129] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CeDeJota
+[01Jan2025 18:19:51.148] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5803d141[id=<null>,name=CeDeJota,properties={},legacy=false] (/127.246.80.153:48661) lost connection: Disconnected
+[01Jan2025 18:20:05.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CeDeJota[/127.246.80.153:58867] logged in with entity id 6236 at (-75.4033441669249, 64.0, 726.433160401872)
+[01Jan2025 18:20:05.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota joined the game
+[01Jan2025 18:20:05.273] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to CeDeJota
+[01Jan2025 18:20:07.449] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from CeDeJota
+[01Jan2025 18:20:07.547] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CeDeJota (18)
+[01Jan2025 18:20:07.548] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CeDeJota
+[01Jan2025 18:21:46.605] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7894, l='ServerLevel[aaa]', x=193.50, y=72.00, z=829.50]
+[01Jan2025 18:21:59.403] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8081, l='ServerLevel[aaa]', x=100.50, y=71.00, z=834.50]
+[01Jan2025 18:23:38.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota has made the advancement [Pic-A-Nic Basket?]
+[01Jan2025 18:24:27.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota lost connection: Disconnected
+[01Jan2025 18:24:27.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota left the game
+[01Jan2025 18:24:27.717] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CeDeJota
+[01Jan2025 18:32:02.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CeDeJota[/127.246.80.153:45683] logged in with entity id 9501 at (185.76836227581705, 90.0, 1015.3617644937859)
+[01Jan2025 18:32:02.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota joined the game
+[01Jan2025 18:32:02.591] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to CeDeJota
+[01Jan2025 18:32:03.699] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from CeDeJota
+[01Jan2025 18:32:03.721] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CeDeJota (18)
+[01Jan2025 18:32:03.722] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CeDeJota
+[01Jan2025 18:33:30.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota lost connection: Disconnected
+[01Jan2025 18:33:30.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota left the game
+[01Jan2025 18:33:30.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CeDeJota
+[01Jan2025 18:34:39.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CeDeJota[/127.246.80.153:50737] logged in with entity id 10122 at (123.22620027992899, 62.07326936779092, 947.6732423053197)
+[01Jan2025 18:34:39.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota joined the game
+[01Jan2025 18:34:39.262] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to CeDeJota
+[01Jan2025 18:34:40.539] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from CeDeJota
+[01Jan2025 18:34:40.541] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CeDeJota (18)
+[01Jan2025 18:34:40.542] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CeDeJota
+[01Jan2025 18:37:12.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota hit the ground too hard
+[01Jan2025 18:37:15.002] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
