@@ -15300,3 +15300,28 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [01Jan2025 14:59:19.182] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-5 shutdown
 [01Jan2025 15:00:19.182] [Worker-Main-6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-6 shutdown
 [01Jan2025 15:01:19.182] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[01Jan2025 15:02:19.182] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[01Jan2025 15:03:11.208] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[01Jan2025 15:03:11.208] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[01Jan2025 15:03:11.215] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[01Jan2025 15:03:11.215] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[01Jan2025 15:03:11.219] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[01Jan2025 15:03:11.219] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[01Jan2025 15:03:11.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[01Jan2025 15:03:11.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[01Jan2025 15:03:19.182] [Worker-Main-21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-21 shutdown
+[01Jan2025 15:04:19.182] [Worker-Main-20/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-20 shutdown
+[01Jan2025 15:05:19.182] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[01Jan2025 15:06:19.182] [Worker-Main-16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-16 shutdown
+[01Jan2025 15:07:19.182] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-15 shutdown
+[01Jan2025 15:08:11.200] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[01Jan2025 15:08:11.201] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[01Jan2025 15:08:11.205] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[01Jan2025 15:08:11.205] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[01Jan2025 15:08:11.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[01Jan2025 15:08:11.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[01Jan2025 15:08:19.182] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
+[01Jan2025 15:09:19.182] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-13 shutdown
+[01Jan2025 15:10:19.182] [Worker-Main-23/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-23 shutdown
+[01Jan2025 15:11:19.182] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[01Jan2025 15:12:19.182] [Worker-Main-12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-12 shutdown
