@@ -15049,3 +15049,28 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [01Jan2025 14:18:44.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota has made the advancement [Getting an Upgrade]
 [01Jan2025 14:18:54.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota has made the advancement [Stone Age]
 [01Jan2025 14:19:37.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Set own game mode to Survival Mode]
+[01Jan2025 14:22:35.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota has made the advancement [Acquire Hardware]
+[01Jan2025 14:23:37.723] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[01Jan2025 14:23:37.729] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[01Jan2025 14:23:37.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[01Jan2025 14:23:37.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[01Jan2025 14:27:04.289] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[01Jan2025 14:27:30.604] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[01Jan2025 14:28:01.620] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CeDeJota: {disabled=false, disconnected=true, uuid=436d1021-6c41-3a5e-bf34-e68e410dba94, name=CeDeJota, group=null}
+[01Jan2025 14:28:02.612] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CeDeJota: {disabled=true, disconnected=true, uuid=436d1021-6c41-3a5e-bf34-e68e410dba94, name=CeDeJota, group=null}
+[01Jan2025 14:28:18.502] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[01Jan2025 14:28:21.067] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[01Jan2025 14:28:21.280] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[01Jan2025 14:28:29.380] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2687, l='ServerLevel[aaa]', x=100.50, y=71.00, z=833.50]
+[01Jan2025 14:28:32.627] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2697, l='ServerLevel[aaa]', x=205.50, y=74.00, z=809.50]
+[01Jan2025 14:28:37.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[01Jan2025 14:28:37.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[01Jan2025 14:29:01.678] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2923, l='ServerLevel[aaa]', x=151.50, y=70.00, z=821.50]
+[01Jan2025 14:29:19.330] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3110, l='ServerLevel[aaa]', x=182.50, y=69.00, z=835.50]
+[01Jan2025 14:29:29.777] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3155, l='ServerLevel[aaa]', x=191.50, y=72.00, z=829.50]
+[01Jan2025 14:30:14.279] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3390, l='ServerLevel[aaa]', x=185.50, y=71.00, z=723.50]
+[01Jan2025 14:30:20.178] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3429, l='ServerLevel[aaa]', x=192.50, y=73.00, z=802.50]
+[01Jan2025 14:30:38.929] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3538, l='ServerLevel[aaa]', x=106.50, y=70.00, z=828.50]
+[01Jan2025 14:30:46.204] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[01Jan2025 14:30:55.254] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[01Jan2025 14:30:55.254] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
