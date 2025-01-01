@@ -1182,3 +1182,8 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [01Jan2025 14:48:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota has made the advancement [Monster Hunter]
 [01Jan2025 14:51:41.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota hit the ground too hard
 [01Jan2025 14:51:42.927] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 14:55:18.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Set own game mode to Creative Mode]
+[01Jan2025 14:57:16.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Set own game mode to Survival Mode]
+[01Jan2025 14:58:19.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota lost connection: Disconnected
+[01Jan2025 14:58:19.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota left the game
+[01Jan2025 14:58:19.129] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CeDeJota

@@ -15219,3 +15219,84 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [01Jan2025 14:51:42.704] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
 [01Jan2025 14:51:42.715] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
 [01Jan2025 14:51:42.927] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 14:52:20.618] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 7
+[01Jan2025 14:52:23.118] [Server thread/DEBUG] [pointblank/]: 43118 handling client fire request
+[01Jan2025 14:52:23.119] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 6
+[01Jan2025 14:52:23.119] [Server thread/DEBUG] [pointblank/]: 43119 - obtained hit result in 0ms
+[01Jan2025 14:52:23.119] [Server thread/DEBUG] [pointblank/]: 43119 obtained hit results
+[01Jan2025 14:52:23.119] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a20ceb9
+[01Jan2025 14:52:23.120] [Server thread/DEBUG] [pointblank/]: ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-84.49, y=67.00, z=732.26] sends hit scan notification to ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-84.49, y=67.00, z=732.26]
+[01Jan2025 14:52:23.468] [Server thread/DEBUG] [pointblank/]: 43468 handling client fire request
+[01Jan2025 14:52:23.468] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 5
+[01Jan2025 14:52:23.469] [Server thread/DEBUG] [pointblank/]: 43469 - obtained hit result in 1ms
+[01Jan2025 14:52:23.469] [Server thread/DEBUG] [pointblank/]: 43469 obtained hit results
+[01Jan2025 14:52:23.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4525bba2
+[01Jan2025 14:52:23.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-84.49, y=67.00, z=732.26] sends hit scan notification to ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-84.49, y=67.00, z=732.26]
+[01Jan2025 14:52:24.172] [Server thread/DEBUG] [pointblank/]: 44172 handling client fire request
+[01Jan2025 14:52:24.172] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 4
+[01Jan2025 14:52:24.172] [Server thread/DEBUG] [pointblank/]: 44172 - obtained hit result in 0ms
+[01Jan2025 14:52:24.172] [Server thread/DEBUG] [pointblank/]: 44172 obtained hit results
+[01Jan2025 14:52:24.172] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@12da3054
+[01Jan2025 14:52:24.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-84.49, y=67.00, z=732.26] sends hit scan notification to ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-84.49, y=67.00, z=732.26]
+[01Jan2025 14:52:24.716] [Server thread/DEBUG] [pointblank/]: 44716 handling client fire request
+[01Jan2025 14:52:24.717] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 3
+[01Jan2025 14:52:24.717] [Server thread/DEBUG] [pointblank/]: 44717 - obtained hit result in 0ms
+[01Jan2025 14:52:24.717] [Server thread/DEBUG] [pointblank/]: 44717 obtained hit results
+[01Jan2025 14:52:24.717] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f840a63
+[01Jan2025 14:52:24.718] [Server thread/DEBUG] [pointblank/]: ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-84.49, y=67.00, z=732.26] sends hit scan notification to ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-84.49, y=67.00, z=732.26]
+[01Jan2025 14:52:25.564] [Server thread/DEBUG] [pointblank/]: 45564 handling client fire request
+[01Jan2025 14:52:25.565] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 2
+[01Jan2025 14:52:25.565] [Server thread/DEBUG] [pointblank/]: 45565 - obtained hit result in 0ms
+[01Jan2025 14:52:25.565] [Server thread/DEBUG] [pointblank/]: 45565 obtained hit results
+[01Jan2025 14:52:25.565] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@596cf724
+[01Jan2025 14:52:25.567] [Server thread/DEBUG] [pointblank/]: ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-84.49, y=67.00, z=732.26] sends hit scan notification to ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-84.49, y=67.00, z=732.26]
+[01Jan2025 14:52:27.646] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 7
+[01Jan2025 14:52:37.865] [Server thread/DEBUG] [pointblank/]: 57865 handling client fire request
+[01Jan2025 14:52:37.865] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 6
+[01Jan2025 14:52:37.865] [Server thread/DEBUG] [pointblank/]: 57865 - obtained hit result in 0ms
+[01Jan2025 14:52:37.865] [Server thread/DEBUG] [pointblank/]: 57865 obtained hit results
+[01Jan2025 14:52:37.865] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@371fcc80
+[01Jan2025 14:52:37.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-74.06, y=67.00, z=738.31] sends hit scan notification to ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-74.06, y=67.00, z=738.31]
+[01Jan2025 14:52:38.616] [Server thread/DEBUG] [pointblank/]: 58616 handling client fire request
+[01Jan2025 14:52:38.616] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 5
+[01Jan2025 14:52:38.616] [Server thread/DEBUG] [pointblank/]: 58616 - obtained hit result in 0ms
+[01Jan2025 14:52:38.616] [Server thread/DEBUG] [pointblank/]: 58616 obtained hit results
+[01Jan2025 14:52:38.616] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e71170
+[01Jan2025 14:52:38.617] [Server thread/DEBUG] [pointblank/]: ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-74.06, y=67.00, z=738.31] sends hit scan notification to ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-74.06, y=67.00, z=738.31]
+[01Jan2025 14:52:39.214] [Server thread/DEBUG] [pointblank/]: 59214 handling client fire request
+[01Jan2025 14:52:39.214] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 4
+[01Jan2025 14:52:39.215] [Server thread/DEBUG] [pointblank/]: 59215 - obtained hit result in 1ms
+[01Jan2025 14:52:39.215] [Server thread/DEBUG] [pointblank/]: 59215 obtained hit results
+[01Jan2025 14:52:39.215] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ee191c2
+[01Jan2025 14:52:39.215] [Server thread/DEBUG] [pointblank/]: ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-74.06, y=67.00, z=738.31] sends hit scan notification to ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-74.06, y=67.00, z=738.31]
+[01Jan2025 14:52:39.865] [Server thread/DEBUG] [pointblank/]: 59865 handling client fire request
+[01Jan2025 14:52:39.866] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 3
+[01Jan2025 14:52:39.866] [Server thread/DEBUG] [pointblank/]: 59866 - obtained hit result in 0ms
+[01Jan2025 14:52:39.866] [Server thread/DEBUG] [pointblank/]: 59866 obtained hit results
+[01Jan2025 14:52:39.866] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@60acfdda
+[01Jan2025 14:52:39.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-74.06, y=67.00, z=738.31] sends hit scan notification to ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-74.06, y=67.00, z=738.31]
+[01Jan2025 14:52:40.468] [Server thread/DEBUG] [pointblank/]: 60468 handling client fire request
+[01Jan2025 14:52:40.468] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 2
+[01Jan2025 14:52:40.468] [Server thread/DEBUG] [pointblank/]: 60468 - obtained hit result in 0ms
+[01Jan2025 14:52:40.468] [Server thread/DEBUG] [pointblank/]: 60468 obtained hit results
+[01Jan2025 14:52:40.468] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6b333e8a
+[01Jan2025 14:52:40.470] [Server thread/DEBUG] [pointblank/]: ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-74.06, y=67.00, z=738.31] sends hit scan notification to ServerPlayer['CeDeJota'/77, l='ServerLevel[aaa]', x=-74.06, y=67.00, z=738.31]
+[01Jan2025 14:52:41.773] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1367172642 to 7
+[01Jan2025 14:53:11.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[01Jan2025 14:53:11.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[01Jan2025 14:54:30.381] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Jan2025 14:54:30.400] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Jan2025 14:54:33.848] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[01Jan2025 14:54:33.848] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[01Jan2025 14:55:18.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Set own game mode to Creative Mode]
+[01Jan2025 14:55:46.483] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[01Jan2025 14:57:16.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Set own game mode to Survival Mode]
+[01Jan2025 14:58:11.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[01Jan2025 14:58:11.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[01Jan2025 14:58:19.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota lost connection: Disconnected
+[01Jan2025 14:58:19.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota left the game
+[01Jan2025 14:58:19.128] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of CeDeJota
+[01Jan2025 14:58:19.129] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CeDeJota
+[01Jan2025 14:59:19.182] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-5 shutdown
+[01Jan2025 15:00:19.182] [Worker-Main-6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-6 shutdown
+[01Jan2025 15:01:19.182] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
