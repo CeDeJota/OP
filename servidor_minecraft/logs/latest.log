@@ -1217,3 +1217,12 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [01Jan2025 18:34:40.542] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CeDeJota
 [01Jan2025 18:37:12.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota hit the ground too hard
 [01Jan2025 18:37:15.002] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 19:02:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: The difficulty has been set to Hard]
+[01Jan2025 19:08:53.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -72.500000, 64.500000, 727.500000]
+[01Jan2025 19:10:07.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -140.500000, 4.500000, 716.500000]
+[01Jan2025 19:12:44.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DocTom02[/127.233.210.18:60385] logged in with entity id 25656 at (317.2246471880832, 50.0, 113.03313383061206)
+[01Jan2025 19:12:44.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 joined the game
+[01Jan2025 19:12:44.783] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to DocTom02
+[01Jan2025 19:12:47.202] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from DocTom02
+[01Jan2025 19:12:47.211] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DocTom02 (18)
+[01Jan2025 19:12:47.212] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DocTom02
