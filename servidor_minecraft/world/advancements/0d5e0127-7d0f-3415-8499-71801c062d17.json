@@ -71,6 +71,7 @@
       "minecraft:birch_forest": "2024-12-31 15:59:50 +0000",
       "minecraft:bamboo_jungle": "2024-12-31 16:07:18 +0000",
       "minecraft:beach": "2024-12-31 16:06:59 +0000",
+      "minecraft:dark_forest": "2025-01-01 21:08:04 +0000",
       "minecraft:sparse_jungle": "2025-01-01 19:41:55 +0000",
       "minecraft:lukewarm_ocean": "2024-12-31 16:08:44 +0000",
       "minecraft:river": "2024-12-31 16:06:58 +0000",
@@ -79,6 +80,7 @@
       "minecraft:jungle": "2024-12-31 16:07:38 +0000",
       "minecraft:ocean": "2024-12-31 16:06:37 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-31 16:10:17 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-01 20:53:47 +0000",
       "minecraft:plains": "2025-01-01 19:37:34 +0000"
     },
     "done": false
@@ -2075,6 +2077,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-01 21:00:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_side_table": {
     "criteria": {
       "has_jungle_side_table": "2025-01-01 20:01:55 +0000"
@@ -2441,6 +2449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-01 20:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-01 20:24:56 +0000"
@@ -2699,6 +2713,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-01 21:08:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:16:38 +0000"
@@ -2741,6 +2761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-01 21:08:58 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/bamboo_pallet": {
     "criteria": {
       "has_planks": "2025-01-01 19:50:00 +0000"
@@ -2762,6 +2788,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-01 20:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-01 20:53:37 +0000"
     },
     "done": true
   },
@@ -3473,6 +3505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-01 21:08:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2025-01-01 20:24:56 +0000"
@@ -3796,6 +3834,12 @@
       "has_iron_ingot": "2025-01-01 19:16:38 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-01 21:06:10 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
@@ -5549,6 +5593,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-01 19:43:39 +0000"
@@ -5696,6 +5746,18 @@
   "decorative_blocks:recipes/building_blocks/acacia_support": {
     "criteria": {
       "has_plank": "2025-01-01 19:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-01 20:53:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:53:37 +0000"
     },
     "done": true
   },
@@ -6089,6 +6151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-01 21:08:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_bench": {
     "criteria": {
       "has_jungle_bench": "2025-01-01 20:01:55 +0000"
@@ -6434,6 +6502,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-01-01 19:38:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-01 21:06:10 +0000"
     },
     "done": true
   },

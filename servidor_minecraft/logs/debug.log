@@ -21912,3 +21912,48 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [01Jan2025 20:54:12.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -72.500000, 64.500000, 727.500000]
 [01Jan2025 20:54:24.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported DocTom02 to CeDeJota]
 [01Jan2025 20:54:26.108] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/137937, l='ServerLevel[aaa]', x=31.50, y=49.00, z=674.50]
+[01Jan2025 20:57:03.411] [IO-Worker-284/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-292
+[01Jan2025 20:58:11.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[01Jan2025 20:58:11.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[01Jan2025 21:00:12.907] [IO-Worker-290/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-293
+[01Jan2025 21:00:13.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 has made the advancement [Sweet Dreams]
+[01Jan2025 21:02:34.362] [IO-Worker-292/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-294
+[01Jan2025 21:03:11.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[01Jan2025 21:03:11.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[01Jan2025 21:04:07.125] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1917531310 to 7
+[01Jan2025 21:04:51.721] [IO-Worker-292/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-295
+[01Jan2025 21:04:51.721] [IO-Worker-293/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-296
+[01Jan2025 21:05:09.208] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/151333, l='ServerLevel[aaa]', x=-393.50, y=69.00, z=830.50]
+[01Jan2025 21:05:10.656] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[01Jan2025 21:05:10.754] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[01Jan2025 21:06:10.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 has made the advancement [Cobweb Entanglement]
+[01Jan2025 21:06:25.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota was slain by Warrior
+[01Jan2025 21:06:26.639] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 21:06:32.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -75.500000, 64.500000, 728.500000]
+[01Jan2025 21:06:33.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota was slain by Warrior
+[01Jan2025 21:06:35.043] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 21:06:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -72.500000, 64.500000, 727.500000]
+[01Jan2025 21:06:40.460] [IO-Worker-296/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-297
+[01Jan2025 21:06:40.461] [IO-Worker-296/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-298
+[01Jan2025 21:06:40.461] [IO-Worker-292/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-299
+[01Jan2025 21:06:40.461] [IO-Worker-296/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-300
+[01Jan2025 21:08:11.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[01Jan2025 21:08:11.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[01Jan2025 21:08:32.863] [IO-Worker-299/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-301
+[01Jan2025 21:09:23.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/162634, l='ServerLevel[aaa]', x=25.50, y=50.00, z=671.50]
+[01Jan2025 21:09:40.124] [IO-Worker-300/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-302
+[01Jan2025 21:09:58.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota lost connection: Disconnected
+[01Jan2025 21:09:58.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota left the game
+[01Jan2025 21:09:58.545] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of CeDeJota
+[01Jan2025 21:09:58.545] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CeDeJota
+[01Jan2025 21:11:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported DocTom02 to -73.500000, 65.500000, 726.500000]
+[01Jan2025 21:11:28.910] [IO-Worker-302/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-303
+[01Jan2025 21:11:28.961] [IO-Worker-302/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-304
+[01Jan2025 21:11:28.961] [IO-Worker-292/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-305
+[01Jan2025 21:13:03.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DocTom02 lost connection: Disconnected
+[01Jan2025 21:13:03.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 left the game
+[01Jan2025 21:13:03.214] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DocTom02
+[01Jan2025 21:13:03.214] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DocTom02
+[01Jan2025 21:13:11.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[01Jan2025 21:13:11.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[01Jan2025 21:14:03.254] [Worker-Main-184/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-184 shutdown
