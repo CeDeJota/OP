@@ -1226,3 +1226,22 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [01Jan2025 19:12:47.202] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from DocTom02
 [01Jan2025 19:12:47.211] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DocTom02 (18)
 [01Jan2025 19:12:47.212] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DocTom02
+[01Jan2025 19:13:17.863] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 19:15:16.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -72.500000, 64.500000, 727.500000]
+[01Jan2025 19:15:23.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported DocTom02 to CeDeJota]
+[01Jan2025 19:16:38.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 has made the advancement [Acquire Hardware]
+[01Jan2025 19:17:33.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 has made the advancement [Isn't It Iron Pick]
+[01Jan2025 19:18:22.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota moved wrongly!
+[01Jan2025 19:18:29.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DocTom02 moved wrongly!
+[01Jan2025 19:18:46.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -140.500000, 4.500000, 716.500000]
+[01Jan2025 19:20:08.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -72.500000, 64.500000, 727.500000]
+[01Jan2025 19:21:31.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -140.500000, 4.500000, 716.500000]
+[01Jan2025 19:22:44.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota has made the advancement [Diamonds!]
+[01Jan2025 19:29:05.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -72.500000, 64.500000, 727.500000]
+[01Jan2025 19:29:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported DocTom02 to CeDeJota]
+[01Jan2025 19:29:28.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported DocTom02 to -73.500000, 65.500000, 726.500000]
+[01Jan2025 19:29:56.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota moved wrongly!
+[01Jan2025 19:30:38.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported DocTom02 to CeDeJota]
+[01Jan2025 19:32:15.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 has made the advancement [Suit Up]
+[01Jan2025 19:32:15.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -72.500000, 64.500000, 727.500000]
+[01Jan2025 19:32:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota has made the advancement [Suit Up]
