@@ -1,17 +1,5 @@
 [
   {
-    "biomeName": "pioneer:verdant_sands",
-    "chance": 5
-  },
-  {
-    "biomeName": "pioneer:pine_meadows",
-    "chance": 10
-  },
-  {
-    "biomeName": "pioneer:aspen_grove",
-    "chance": 10
-  },
-  {
     "biomeName": "pioneer:windswept_cliffs",
     "chance": 5
   },
@@ -22,5 +10,17 @@
   {
     "biomeName": "pioneer:flooded_forest",
     "chance": 20
+  },
+  {
+    "biomeName": "pioneer:verdant_sands",
+    "chance": 5
+  },
+  {
+    "biomeName": "pioneer:pine_meadows",
+    "chance": 10
+  },
+  {
+    "biomeName": "pioneer:aspen_grove",
+    "chance": 10
   }
 ]

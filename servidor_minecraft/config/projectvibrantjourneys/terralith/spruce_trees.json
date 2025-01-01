@@ -1,5 +1,33 @@
 [
   {
+    "biomeName": "terralith:siberian_taiga",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:forested_highlands",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:yellowstone",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:cold_shrublands",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:alpine_highlands",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:lush_valley",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:bryce_canyon",
+    "chance": 5
+  },
+  {
     "biomeName": "terralith:rocky_shrublands",
     "chance": 5
   },
@@ -38,33 +66,5 @@
   {
     "biomeName": "terralith:shield",
     "chance": 10
-  },
-  {
-    "biomeName": "terralith:siberian_taiga",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:forested_highlands",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:yellowstone",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:cold_shrublands",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:alpine_highlands",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:lush_valley",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:bryce_canyon",
-    "chance": 5
   }
 ]
