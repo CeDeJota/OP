@@ -1287,3 +1287,66 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [01Jan2025 19:42:44.510] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42871, l='ServerLevel[aaa]', x=-454.50, y=71.00, z=-4.50]
 [01Jan2025 19:42:57.960] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43065, l='ServerLevel[aaa]', x=-373.50, y=82.00, z=40.50]
 [01Jan2025 19:42:59.860] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43097, l='ServerLevel[aaa]', x=-349.50, y=71.00, z=54.50]
+[01Jan2025 19:43:46.213] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43664, l='ServerLevel[aaa]', x=-473.50, y=75.00, z=-18.50]
+[01Jan2025 19:46:15.906] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44936, l='ServerLevel[aaa]', x=-441.50, y=74.00, z=-3.50]
+[01Jan2025 19:46:32.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45130, l='ServerLevel[aaa]', x=-366.50, y=74.00, z=20.50]
+[01Jan2025 19:46:47.357] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45327, l='ServerLevel[aaa]', x=-536.50, y=75.00, z=-50.50]
+[01Jan2025 19:47:06.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota has made the advancement [The Hoarding Begins]
+[01Jan2025 19:47:22.955] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45677, l='ServerLevel[aaa]', x=-492.50, y=71.00, z=-30.50]
+[01Jan2025 19:47:32.806] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45778, l='ServerLevel[aaa]', x=-508.50, y=73.00, z=-28.50]
+[01Jan2025 19:47:47.155] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45997, l='ServerLevel[aaa]', x=-472.50, y=71.00, z=-17.50]
+[01Jan2025 19:48:09.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 has made the advancement ['X' Marks the Spot]
+[01Jan2025 19:48:19.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported DocTom02 to CeDeJota]
+[01Jan2025 19:48:36.107] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46487, l='ServerLevel[aaa]', x=-442.50, y=74.00, z=-1.50]
+[01Jan2025 19:48:55.555] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46709, l='ServerLevel[aaa]', x=-347.50, y=71.00, z=28.50]
+[01Jan2025 19:49:04.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 was slain by CeDeJota
+[01Jan2025 19:49:06.320] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 19:49:09.357] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47052, l='ServerLevel[aaa]', x=-518.50, y=74.00, z=-30.50]
+[01Jan2025 19:49:09.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported DocTom02 to -430.500000, 78.500000, -56.500000]
+[01Jan2025 19:49:18.457] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47243, l='ServerLevel[aaa]', x=-536.50, y=75.00, z=-51.50]
+[01Jan2025 19:49:28.804] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47407, l='ServerLevel[aaa]', x=-345.50, y=71.00, z=29.50]
+[01Jan2025 19:49:35.406] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47473, l='ServerLevel[aaa]', x=-347.50, y=71.00, z=30.50]
+[01Jan2025 19:49:35.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47474, l='ServerLevel[aaa]', x=-507.50, y=73.00, z=-29.50]
+[01Jan2025 19:49:43.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported CeDeJota to DocTom02]
+[01Jan2025 19:50:00.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 has made the advancement [The Hoarding Begins]
+[01Jan2025 19:50:12.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota was slain by Zombie
+[01Jan2025 19:50:14.181] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 19:50:18.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -411.500000, 72.500000, -60.500000]
+[01Jan2025 19:50:21.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota was slain by Zombie
+[01Jan2025 19:50:23.308] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48482, l='ServerLevel[aaa]', x=-443.50, y=74.00, z=-2.50]
+[01Jan2025 19:50:23.870] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 19:50:27.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported CeDeJota to DocTom02]
+[01Jan2025 19:51:23.710] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49245, l='ServerLevel[aaa]', x=-534.50, y=75.00, z=-52.50]
+[01Jan2025 19:51:26.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota was doomed to fall by Zombie
+[01Jan2025 19:51:28.615] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 19:51:30.672] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49448, l='ServerLevel[aaa]', x=-507.50, y=77.00, z=-43.50]
+[01Jan2025 19:51:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -412.500000, 72.500000, -12.500000]
+[01Jan2025 19:51:34.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported CeDeJota to DocTom02]
+[01Jan2025 19:52:04.607] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/50057, l='ServerLevel[aaa]', x=-474.50, y=75.00, z=-20.50]
+[01Jan2025 19:52:25.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota was slain by Zombie
+[01Jan2025 19:52:27.437] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 19:52:39.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -420.500000, 73.500000, -46.500000]
+[01Jan2025 19:53:06.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota fell from a high place
+[01Jan2025 19:53:08.100] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 19:53:11.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -402.500000, 72.500000, -47.500000]
+[01Jan2025 19:53:18.407] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/51488, l='ServerLevel[aaa]', x=-373.50, y=82.00, z=42.50]
+[01Jan2025 19:53:23.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota was slain by Zombie
+[01Jan2025 19:53:25.625] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 19:53:36.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -413.500000, 73.500000, -46.500000]
+[01Jan2025 19:53:37.157] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/51986, l='ServerLevel[aaa]', x=-509.50, y=73.00, z=-28.50]
+[01Jan2025 19:53:55.207] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/52168, l='ServerLevel[aaa]', x=-494.50, y=71.00, z=-30.50]
+[01Jan2025 19:54:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota was slain by Zombie
+[01Jan2025 19:54:28.236] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 19:54:32.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported CeDeJota to DocTom02]
+[01Jan2025 19:55:21.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/53117, l='ServerLevel[aaa]', x=-473.50, y=75.00, z=-19.50]
+[01Jan2025 19:56:20.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/53610, l='ServerLevel[aaa]', x=-349.50, y=71.00, z=53.50]
+[01Jan2025 19:56:30.509] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/53708, l='ServerLevel[aaa]', x=-506.50, y=77.00, z=-41.50]
+[01Jan2025 19:58:24.156] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54507, l='ServerLevel[aaa]', x=-441.50, y=74.00, z=-1.50]
+[01Jan2025 19:58:33.155] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54600, l='ServerLevel[aaa]', x=-347.50, y=71.00, z=53.50]
+[01Jan2025 19:58:57.557] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54875, l='ServerLevel[aaa]', x=-517.50, y=74.00, z=-31.50]
+[01Jan2025 19:59:02.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -72.500000, 64.500000, 727.500000]
+[01Jan2025 19:59:10.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported DocTom02 to CeDeJota]
+[01Jan2025 20:00:32.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota was slain by DocTom02
+[01Jan2025 20:00:33.794] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jan2025 20:01:19.704] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/55981, l='ServerLevel[aaa]', x=31.50, y=48.00, z=671.50]
+[01Jan2025 20:02:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota has made the advancement [Sweet Dreams]
