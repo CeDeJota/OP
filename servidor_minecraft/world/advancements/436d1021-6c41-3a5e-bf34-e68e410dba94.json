@@ -6290,39 +6290,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/baking/sea_salt": {
-    "criteria": {
-      "has_ingredient": "2025-01-01 20:52:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-01-01 20:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-01-01 20:54:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-01-01 20:54:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-01-01 20:27:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-01 20:35:45 +0000"
     },
     "done": true
   },
@@ -6332,9 +6302,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
-      "has_water_bucket": "2025-01-01 20:52:50 +0000"
+      "has_tag": "2025-01-01 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-01-01 20:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-01 20:35:45 +0000"
     },
     "done": true
   },
@@ -6344,9 +6326,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+  "lootr:10loot": {
     "criteria": {
-      "has_tag": "2025-01-01 20:27:11 +0000"
+      "loot_stat": "2025-01-01 20:39:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 20:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-01 20:52:50 +0000"
     },
     "done": true
   },
@@ -6362,9 +6356,15 @@
     },
     "done": true
   },
-  "lootr:10loot": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "loot_stat": "2025-01-01 20:39:18 +0000"
+      "has_reeds": "2025-01-01 20:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-01 20:54:07 +0000"
     },
     "done": true
   },
