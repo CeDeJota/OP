@@ -20660,3 +20660,28 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 22:29:46.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 left the game
 [02Jan2025 22:29:46.437] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DocTom02
 [02Jan2025 22:29:46.437] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DocTom02
+[02Jan2025 22:30:01.944] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[02Jan2025 22:30:01.944] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[02Jan2025 22:30:01.944] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[02Jan2025 22:30:01.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[02Jan2025 22:30:01.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[02Jan2025 22:30:46.482] [Worker-Main-83/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-83 shutdown
+[02Jan2025 22:31:46.482] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-15 shutdown
+[02Jan2025 22:32:46.482] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[02Jan2025 22:33:46.482] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
+[02Jan2025 22:34:46.482] [Worker-Main-16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-16 shutdown
+[02Jan2025 22:35:01.926] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[02Jan2025 22:35:01.926] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[02Jan2025 22:35:01.929] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[02Jan2025 22:35:01.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[02Jan2025 22:35:01.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[02Jan2025 22:35:46.482] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[02Jan2025 22:36:46.482] [Worker-Main-7/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-7 shutdown
+[02Jan2025 22:37:46.482] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[02Jan2025 22:38:46.482] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[02Jan2025 22:39:46.482] [Worker-Main-6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-6 shutdown
+[02Jan2025 22:40:01.926] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[02Jan2025 22:40:01.926] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[02Jan2025 22:40:01.929] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[02Jan2025 22:40:01.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[02Jan2025 22:40:01.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
