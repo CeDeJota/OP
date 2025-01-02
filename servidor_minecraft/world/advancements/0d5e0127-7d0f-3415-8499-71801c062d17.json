@@ -6640,6 +6640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-02 21:05:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-02 20:49:22 +0000"
@@ -6868,6 +6874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 21:05:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-02 20:25:43 +0000"
@@ -6916,9 +6928,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 21:05:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-02 20:25:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 21:05:00 +0000"
     },
     "done": true
   },
@@ -7060,6 +7084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-02 21:04:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-02 20:25:43 +0000"
@@ -7096,6 +7126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-02 21:05:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-02 20:25:43 +0000"
@@ -7105,6 +7141,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_glass": "2025-01-02 20:49:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 21:01:04 +0000"
     },
     "done": true
   },
@@ -7129,6 +7171,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-01-02 20:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-02 21:01:04 +0000"
     },
     "done": true
   },
@@ -7168,6 +7216,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-01-02 21:05:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-01-02 20:38:21 +0000"
@@ -7183,6 +7237,12 @@
   "bbb:recipes/sandstone_layer": {
     "criteria": {
       "has_block": "2025-01-02 20:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-02 21:04:58 +0000"
     },
     "done": true
   },
@@ -7207,6 +7267,12 @@
   "handcrafted:recipes/misc/sandstone_pillar_trim": {
     "criteria": {
       "has_sandstone_pillar_trim": "2025-01-02 20:39:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 21:05:00 +0000"
     },
     "done": true
   },
@@ -7285,6 +7351,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 20:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-01-02 20:55:07 +0000"
     },
     "done": true
   },

@@ -7148,6 +7148,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_bowl": "2025-01-02 20:57:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-02 20:53:58 +0000"
