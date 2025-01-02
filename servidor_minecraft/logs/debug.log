@@ -19950,3 +19950,713 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Jan2025 22:08:55.138] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
 [02Jan2025 22:08:55.138] [IO-Worker-97/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
 [02Jan2025 22:09:21.430] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/61949, l='ServerLevel[aaa]', x=161.50, y=72.00, z=724.50]
+[02Jan2025 22:10:02.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[02Jan2025 22:10:02.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[02Jan2025 22:10:03.416] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Jan2025 22:12:54.084] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[02Jan2025 22:12:59.146] [Server thread/DEBUG] [pointblank/]: 79146 handling client fire request
+[02Jan2025 22:12:59.146] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:12:59.146] [Server thread/DEBUG] [pointblank/]: 79146 - obtained hit result in 0ms
+[02Jan2025 22:12:59.146] [Server thread/DEBUG] [pointblank/]: 79146 obtained hit results
+[02Jan2025 22:12:59.146] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1dba8ff3
+[02Jan2025 22:12:59.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28]
+[02Jan2025 22:13:00.600] [Server thread/DEBUG] [pointblank/]: 80600 handling client fire request
+[02Jan2025 22:13:00.600] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:13:00.600] [Server thread/DEBUG] [pointblank/]: 80600 - obtained hit result in 0ms
+[02Jan2025 22:13:00.600] [Server thread/DEBUG] [pointblank/]: 80600 obtained hit results
+[02Jan2025 22:13:00.600] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@64549251
+[02Jan2025 22:13:00.600] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28]
+[02Jan2025 22:13:00.795] [Server thread/DEBUG] [pointblank/]: 80795 handling client fire request
+[02Jan2025 22:13:00.795] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:13:00.795] [Server thread/DEBUG] [pointblank/]: 80795 - obtained hit result in 0ms
+[02Jan2025 22:13:00.795] [Server thread/DEBUG] [pointblank/]: 80795 obtained hit results
+[02Jan2025 22:13:00.795] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@269bee5b
+[02Jan2025 22:13:00.795] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28]
+[02Jan2025 22:13:02.747] [Server thread/DEBUG] [pointblank/]: 82747 handling client fire request
+[02Jan2025 22:13:02.748] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:13:02.748] [Server thread/DEBUG] [pointblank/]: 82748 - obtained hit result in 0ms
+[02Jan2025 22:13:02.748] [Server thread/DEBUG] [pointblank/]: 82748 obtained hit results
+[02Jan2025 22:13:02.748] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3df90367
+[02Jan2025 22:13:02.748] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28]
+[02Jan2025 22:13:02.897] [Server thread/DEBUG] [pointblank/]: 82897 handling client fire request
+[02Jan2025 22:13:02.897] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:13:02.897] [Server thread/DEBUG] [pointblank/]: 82897 - obtained hit result in 0ms
+[02Jan2025 22:13:02.897] [Server thread/DEBUG] [pointblank/]: 82897 obtained hit results
+[02Jan2025 22:13:02.897] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@526c5c8e
+[02Jan2025 22:13:02.897] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28]
+[02Jan2025 22:13:04.057] [Server thread/DEBUG] [pointblank/]: 84057 handling client fire request
+[02Jan2025 22:13:04.057] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:13:04.057] [Server thread/DEBUG] [pointblank/]: 84057 - obtained hit result in 0ms
+[02Jan2025 22:13:04.057] [Server thread/DEBUG] [pointblank/]: 84057 obtained hit results
+[02Jan2025 22:13:04.057] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4479c42
+[02Jan2025 22:13:04.057] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28]
+[02Jan2025 22:13:04.197] [Server thread/DEBUG] [pointblank/]: 84197 handling client fire request
+[02Jan2025 22:13:04.197] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:13:04.197] [Server thread/DEBUG] [pointblank/]: 84197 - obtained hit result in 0ms
+[02Jan2025 22:13:04.197] [Server thread/DEBUG] [pointblank/]: 84197 obtained hit results
+[02Jan2025 22:13:04.197] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@127980eb
+[02Jan2025 22:13:04.197] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.28]
+[02Jan2025 22:13:07.192] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:13:13.996] [Server thread/DEBUG] [pointblank/]: 93996 handling client fire request
+[02Jan2025 22:13:13.996] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:13:13.996] [Server thread/DEBUG] [pointblank/]: 93996 - obtained hit result in 0ms
+[02Jan2025 22:13:13.996] [Server thread/DEBUG] [pointblank/]: 93996 obtained hit results
+[02Jan2025 22:13:13.996] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@597aae1b
+[02Jan2025 22:13:13.998] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16]
+[02Jan2025 22:13:14.150] [Server thread/DEBUG] [pointblank/]: 94150 handling client fire request
+[02Jan2025 22:13:14.150] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:13:14.150] [Server thread/DEBUG] [pointblank/]: 94150 - obtained hit result in 0ms
+[02Jan2025 22:13:14.150] [Server thread/DEBUG] [pointblank/]: 94150 obtained hit results
+[02Jan2025 22:13:14.150] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f0f6709
+[02Jan2025 22:13:14.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16]
+[02Jan2025 22:13:14.303] [Server thread/DEBUG] [pointblank/]: 94303 handling client fire request
+[02Jan2025 22:13:14.303] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:13:14.303] [Server thread/DEBUG] [pointblank/]: 94303 - obtained hit result in 0ms
+[02Jan2025 22:13:14.303] [Server thread/DEBUG] [pointblank/]: 94303 obtained hit results
+[02Jan2025 22:13:14.303] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2310d64a
+[02Jan2025 22:13:14.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16]
+[02Jan2025 22:13:14.545] [Server thread/DEBUG] [pointblank/]: 94545 handling client fire request
+[02Jan2025 22:13:14.545] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:13:14.545] [Server thread/DEBUG] [pointblank/]: 94545 - obtained hit result in 0ms
+[02Jan2025 22:13:14.545] [Server thread/DEBUG] [pointblank/]: 94545 obtained hit results
+[02Jan2025 22:13:14.545] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@511cc18a
+[02Jan2025 22:13:14.546] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16]
+[02Jan2025 22:13:14.700] [Server thread/DEBUG] [pointblank/]: 94700 handling client fire request
+[02Jan2025 22:13:14.700] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:13:14.700] [Server thread/DEBUG] [pointblank/]: 94700 - obtained hit result in 0ms
+[02Jan2025 22:13:14.700] [Server thread/DEBUG] [pointblank/]: 94700 obtained hit results
+[02Jan2025 22:13:14.700] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58a1dc2a
+[02Jan2025 22:13:14.701] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16]
+[02Jan2025 22:13:14.842] [Server thread/DEBUG] [pointblank/]: 94842 handling client fire request
+[02Jan2025 22:13:14.843] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:13:14.843] [Server thread/DEBUG] [pointblank/]: 94843 - obtained hit result in 0ms
+[02Jan2025 22:13:14.843] [Server thread/DEBUG] [pointblank/]: 94843 obtained hit results
+[02Jan2025 22:13:14.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7d5016da
+[02Jan2025 22:13:14.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16]
+[02Jan2025 22:13:15.045] [Server thread/DEBUG] [pointblank/]: 95045 handling client fire request
+[02Jan2025 22:13:15.045] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:13:15.045] [Server thread/DEBUG] [pointblank/]: 95045 - obtained hit result in 0ms
+[02Jan2025 22:13:15.045] [Server thread/DEBUG] [pointblank/]: 95045 obtained hit results
+[02Jan2025 22:13:15.045] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@24c6bbb7
+[02Jan2025 22:13:15.045] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=515.16]
+[02Jan2025 22:13:15.900] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:13:18.400] [Server thread/DEBUG] [pointblank/]: 98400 handling client fire request
+[02Jan2025 22:13:18.400] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:13:18.400] [Server thread/DEBUG] [pointblank/]: 98400 - obtained hit result in 0ms
+[02Jan2025 22:13:18.400] [Server thread/DEBUG] [pointblank/]: 98400 obtained hit results
+[02Jan2025 22:13:18.400] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5690cb94
+[02Jan2025 22:13:18.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31]
+[02Jan2025 22:13:18.597] [Server thread/DEBUG] [pointblank/]: 98597 handling client fire request
+[02Jan2025 22:13:18.597] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:13:18.597] [Server thread/DEBUG] [pointblank/]: 98597 - obtained hit result in 0ms
+[02Jan2025 22:13:18.597] [Server thread/DEBUG] [pointblank/]: 98597 obtained hit results
+[02Jan2025 22:13:18.597] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54d44c3a
+[02Jan2025 22:13:18.598] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31]
+[02Jan2025 22:13:18.743] [Server thread/DEBUG] [pointblank/]: 98743 handling client fire request
+[02Jan2025 22:13:18.743] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:13:18.743] [Server thread/DEBUG] [pointblank/]: 98743 - obtained hit result in 0ms
+[02Jan2025 22:13:18.743] [Server thread/DEBUG] [pointblank/]: 98743 obtained hit results
+[02Jan2025 22:13:18.743] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5878857d
+[02Jan2025 22:13:18.743] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31]
+[02Jan2025 22:13:18.999] [Server thread/DEBUG] [pointblank/]: 98999 handling client fire request
+[02Jan2025 22:13:18.999] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:13:18.999] [Server thread/DEBUG] [pointblank/]: 98999 - obtained hit result in 0ms
+[02Jan2025 22:13:18.999] [Server thread/DEBUG] [pointblank/]: 98999 obtained hit results
+[02Jan2025 22:13:18.999] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2e8a78c6
+[02Jan2025 22:13:18.999] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31]
+[02Jan2025 22:13:21.916] [Server thread/DEBUG] [pointblank/]: 1916 handling client fire request
+[02Jan2025 22:13:21.916] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:13:21.916] [Server thread/DEBUG] [pointblank/]: 1916 - obtained hit result in 0ms
+[02Jan2025 22:13:21.916] [Server thread/DEBUG] [pointblank/]: 1916 obtained hit results
+[02Jan2025 22:13:21.916] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6c1da034
+[02Jan2025 22:13:21.916] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31]
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: 1918 handling client fire request
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: 1918 - obtained hit result in 0ms
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: 1918 obtained hit results
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6683a076
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31]
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: 1918 handling client fire request
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: 1918 - obtained hit result in 0ms
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: 1918 obtained hit results
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7fa2618d
+[02Jan2025 22:13:21.918] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.19, y=72.50, z=514.31]
+[02Jan2025 22:13:21.920] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:13:23.892] [Server thread/DEBUG] [pointblank/]: 3892 handling client fire request
+[02Jan2025 22:13:23.892] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:13:23.892] [Server thread/DEBUG] [pointblank/]: 3892 - obtained hit result in 0ms
+[02Jan2025 22:13:23.892] [Server thread/DEBUG] [pointblank/]: 3892 obtained hit results
+[02Jan2025 22:13:23.892] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@682b4ce8
+[02Jan2025 22:13:23.892] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.26, y=72.50, z=514.52] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.26, y=72.50, z=514.52]
+[02Jan2025 22:13:24.046] [Server thread/DEBUG] [pointblank/]: 4046 handling client fire request
+[02Jan2025 22:13:24.046] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:13:24.046] [Server thread/DEBUG] [pointblank/]: 4046 - obtained hit result in 0ms
+[02Jan2025 22:13:24.046] [Server thread/DEBUG] [pointblank/]: 4046 obtained hit results
+[02Jan2025 22:13:24.046] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b3e4f98
+[02Jan2025 22:13:24.047] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51]
+[02Jan2025 22:13:24.250] [Server thread/DEBUG] [pointblank/]: 4250 handling client fire request
+[02Jan2025 22:13:24.250] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:13:24.250] [Server thread/DEBUG] [pointblank/]: 4250 - obtained hit result in 0ms
+[02Jan2025 22:13:24.250] [Server thread/DEBUG] [pointblank/]: 4250 obtained hit results
+[02Jan2025 22:13:24.250] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3bce17e8
+[02Jan2025 22:13:24.251] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51]
+[02Jan2025 22:13:25.553] [Server thread/DEBUG] [pointblank/]: 5553 handling client fire request
+[02Jan2025 22:13:25.553] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:13:25.553] [Server thread/DEBUG] [pointblank/]: 5553 - obtained hit result in 0ms
+[02Jan2025 22:13:25.553] [Server thread/DEBUG] [pointblank/]: 5553 obtained hit results
+[02Jan2025 22:13:25.553] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5948d84f
+[02Jan2025 22:13:25.554] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51]
+[02Jan2025 22:13:25.755] [Server thread/DEBUG] [pointblank/]: 5755 handling client fire request
+[02Jan2025 22:13:25.755] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:13:25.755] [Server thread/DEBUG] [pointblank/]: 5755 - obtained hit result in 0ms
+[02Jan2025 22:13:25.755] [Server thread/DEBUG] [pointblank/]: 5755 obtained hit results
+[02Jan2025 22:13:25.755] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@529f726e
+[02Jan2025 22:13:25.756] [Server thread/DEBUG] [pointblank/]: Creating state 4b56c4f0-d92b-4b93-acba-eda6471fd023
+[02Jan2025 22:13:25.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51]
+[02Jan2025 22:13:25.856] [Server thread/DEBUG] [pointblank/]: 5856 handling client fire request
+[02Jan2025 22:13:25.857] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:13:25.857] [Server thread/DEBUG] [pointblank/]: 5857 - obtained hit result in 0ms
+[02Jan2025 22:13:25.857] [Server thread/DEBUG] [pointblank/]: 5857 obtained hit results
+[02Jan2025 22:13:25.857] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4d0a42d2
+[02Jan2025 22:13:25.857] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51]
+[02Jan2025 22:13:26.002] [Server thread/DEBUG] [pointblank/]: 6002 handling client fire request
+[02Jan2025 22:13:26.002] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:13:26.002] [Server thread/DEBUG] [pointblank/]: 6002 - obtained hit result in 0ms
+[02Jan2025 22:13:26.002] [Server thread/DEBUG] [pointblank/]: 6002 obtained hit results
+[02Jan2025 22:13:26.002] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7e925247
+[02Jan2025 22:13:26.002] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.27, y=72.50, z=514.51]
+[02Jan2025 22:13:27.245] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:13:29.797] [Server thread/DEBUG] [pointblank/]: 9797 handling client fire request
+[02Jan2025 22:13:29.797] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:13:29.797] [Server thread/DEBUG] [pointblank/]: 9797 - obtained hit result in 0ms
+[02Jan2025 22:13:29.797] [Server thread/DEBUG] [pointblank/]: 9797 obtained hit results
+[02Jan2025 22:13:29.797] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f931810
+[02Jan2025 22:13:29.798] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18]
+[02Jan2025 22:13:31.193] [Server thread/DEBUG] [pointblank/]: 11193 handling client fire request
+[02Jan2025 22:13:31.193] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:13:31.193] [Server thread/DEBUG] [pointblank/]: 11193 - obtained hit result in 0ms
+[02Jan2025 22:13:31.193] [Server thread/DEBUG] [pointblank/]: 11193 obtained hit results
+[02Jan2025 22:13:31.193] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@f9e5a4c
+[02Jan2025 22:13:31.194] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18]
+[02Jan2025 22:13:32.350] [Server thread/DEBUG] [pointblank/]: 12350 handling client fire request
+[02Jan2025 22:13:32.350] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:13:32.350] [Server thread/DEBUG] [pointblank/]: 12350 - obtained hit result in 0ms
+[02Jan2025 22:13:32.350] [Server thread/DEBUG] [pointblank/]: 12350 obtained hit results
+[02Jan2025 22:13:32.350] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@366431f5
+[02Jan2025 22:13:32.351] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18]
+[02Jan2025 22:13:33.393] [Server thread/DEBUG] [pointblank/]: 13393 handling client fire request
+[02Jan2025 22:13:33.393] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:13:33.393] [Server thread/DEBUG] [pointblank/]: 13393 - obtained hit result in 0ms
+[02Jan2025 22:13:33.393] [Server thread/DEBUG] [pointblank/]: 13393 obtained hit results
+[02Jan2025 22:13:33.393] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15a76f69
+[02Jan2025 22:13:33.394] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18]
+[02Jan2025 22:13:34.397] [Server thread/DEBUG] [pointblank/]: 14397 handling client fire request
+[02Jan2025 22:13:34.397] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:13:34.397] [Server thread/DEBUG] [pointblank/]: 14397 - obtained hit result in 0ms
+[02Jan2025 22:13:34.397] [Server thread/DEBUG] [pointblank/]: 14397 obtained hit results
+[02Jan2025 22:13:34.397] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2aceb4a5
+[02Jan2025 22:13:34.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18]
+[02Jan2025 22:13:35.497] [Server thread/DEBUG] [pointblank/]: 15497 handling client fire request
+[02Jan2025 22:13:35.497] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:13:35.497] [Server thread/DEBUG] [pointblank/]: 15497 - obtained hit result in 0ms
+[02Jan2025 22:13:35.497] [Server thread/DEBUG] [pointblank/]: 15497 obtained hit results
+[02Jan2025 22:13:35.497] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15b5b4bb
+[02Jan2025 22:13:35.498] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18]
+[02Jan2025 22:13:36.648] [Server thread/DEBUG] [pointblank/]: 16648 handling client fire request
+[02Jan2025 22:13:36.648] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:13:36.648] [Server thread/DEBUG] [pointblank/]: 16648 - obtained hit result in 0ms
+[02Jan2025 22:13:36.648] [Server thread/DEBUG] [pointblank/]: 16648 obtained hit results
+[02Jan2025 22:13:36.648] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@44b3e57d
+[02Jan2025 22:13:36.649] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=527.96, y=72.50, z=515.18]
+[02Jan2025 22:13:38.747] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:13:41.641] [Server thread/DEBUG] [pointblank/]: 21641 handling client fire request
+[02Jan2025 22:13:41.641] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:13:41.641] [Server thread/DEBUG] [pointblank/]: 21641 - obtained hit result in 0ms
+[02Jan2025 22:13:41.641] [Server thread/DEBUG] [pointblank/]: 21641 obtained hit results
+[02Jan2025 22:13:41.641] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@17d6c286
+[02Jan2025 22:13:41.642] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70]
+[02Jan2025 22:13:42.641] [Server thread/DEBUG] [pointblank/]: 22641 handling client fire request
+[02Jan2025 22:13:42.641] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:13:42.641] [Server thread/DEBUG] [pointblank/]: 22641 - obtained hit result in 0ms
+[02Jan2025 22:13:42.641] [Server thread/DEBUG] [pointblank/]: 22641 obtained hit results
+[02Jan2025 22:13:42.641] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4c4c1511
+[02Jan2025 22:13:42.641] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70]
+[02Jan2025 22:13:43.400] [Server thread/DEBUG] [pointblank/]: 23400 handling client fire request
+[02Jan2025 22:13:43.400] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:13:43.400] [Server thread/DEBUG] [pointblank/]: 23400 - obtained hit result in 0ms
+[02Jan2025 22:13:43.400] [Server thread/DEBUG] [pointblank/]: 23400 obtained hit results
+[02Jan2025 22:13:43.400] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50ad83bb
+[02Jan2025 22:13:43.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70]
+[02Jan2025 22:13:44.200] [Server thread/DEBUG] [pointblank/]: 24200 handling client fire request
+[02Jan2025 22:13:44.200] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:13:44.200] [Server thread/DEBUG] [pointblank/]: 24200 - obtained hit result in 0ms
+[02Jan2025 22:13:44.200] [Server thread/DEBUG] [pointblank/]: 24200 obtained hit results
+[02Jan2025 22:13:44.200] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ba72dd4
+[02Jan2025 22:13:44.200] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70]
+[02Jan2025 22:13:46.097] [Server thread/DEBUG] [pointblank/]: 26097 handling client fire request
+[02Jan2025 22:13:46.098] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:13:46.098] [Server thread/DEBUG] [pointblank/]: 26098 - obtained hit result in 0ms
+[02Jan2025 22:13:46.098] [Server thread/DEBUG] [pointblank/]: 26098 obtained hit results
+[02Jan2025 22:13:46.098] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3549e466
+[02Jan2025 22:13:46.098] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70]
+[02Jan2025 22:13:46.246] [Server thread/DEBUG] [pointblank/]: 26246 handling client fire request
+[02Jan2025 22:13:46.246] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:13:46.246] [Server thread/DEBUG] [pointblank/]: 26246 - obtained hit result in 0ms
+[02Jan2025 22:13:46.246] [Server thread/DEBUG] [pointblank/]: 26246 obtained hit results
+[02Jan2025 22:13:46.246] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@580477cf
+[02Jan2025 22:13:46.247] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70]
+[02Jan2025 22:13:46.355] [Server thread/DEBUG] [pointblank/]: 26355 handling client fire request
+[02Jan2025 22:13:46.355] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:13:46.355] [Server thread/DEBUG] [pointblank/]: 26355 - obtained hit result in 0ms
+[02Jan2025 22:13:46.355] [Server thread/DEBUG] [pointblank/]: 26355 obtained hit results
+[02Jan2025 22:13:46.355] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@752aa21d
+[02Jan2025 22:13:46.356] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.15, y=72.50, z=516.70]
+[02Jan2025 22:13:47.293] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:13:49.444] [Server thread/DEBUG] [pointblank/]: 29444 handling client fire request
+[02Jan2025 22:13:49.444] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:13:49.444] [Server thread/DEBUG] [pointblank/]: 29444 - obtained hit result in 0ms
+[02Jan2025 22:13:49.444] [Server thread/DEBUG] [pointblank/]: 29444 obtained hit results
+[02Jan2025 22:13:49.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2597dd30
+[02Jan2025 22:13:49.445] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48]
+[02Jan2025 22:13:49.646] [Server thread/DEBUG] [pointblank/]: 29646 handling client fire request
+[02Jan2025 22:13:49.646] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:13:49.646] [Server thread/DEBUG] [pointblank/]: 29646 - obtained hit result in 0ms
+[02Jan2025 22:13:49.646] [Server thread/DEBUG] [pointblank/]: 29646 obtained hit results
+[02Jan2025 22:13:49.646] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@12da4e16
+[02Jan2025 22:13:49.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48]
+[02Jan2025 22:13:49.797] [Server thread/DEBUG] [pointblank/]: 29797 handling client fire request
+[02Jan2025 22:13:49.797] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:13:49.798] [Server thread/DEBUG] [pointblank/]: 29798 - obtained hit result in 1ms
+[02Jan2025 22:13:49.798] [Server thread/DEBUG] [pointblank/]: 29798 obtained hit results
+[02Jan2025 22:13:49.798] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@57fa0023
+[02Jan2025 22:13:49.798] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48]
+[02Jan2025 22:13:49.949] [Server thread/DEBUG] [pointblank/]: 29949 handling client fire request
+[02Jan2025 22:13:49.949] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:13:49.949] [Server thread/DEBUG] [pointblank/]: 29949 - obtained hit result in 0ms
+[02Jan2025 22:13:49.949] [Server thread/DEBUG] [pointblank/]: 29949 obtained hit results
+[02Jan2025 22:13:49.949] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@159b2b7c
+[02Jan2025 22:13:49.949] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48]
+[02Jan2025 22:13:50.092] [Server thread/DEBUG] [pointblank/]: 30092 handling client fire request
+[02Jan2025 22:13:50.092] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:13:50.092] [Server thread/DEBUG] [pointblank/]: 30092 - obtained hit result in 0ms
+[02Jan2025 22:13:50.092] [Server thread/DEBUG] [pointblank/]: 30092 obtained hit results
+[02Jan2025 22:13:50.092] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@44d3d81f
+[02Jan2025 22:13:50.092] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48]
+[02Jan2025 22:13:50.848] [Server thread/DEBUG] [pointblank/]: 30848 handling client fire request
+[02Jan2025 22:13:50.848] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:13:50.849] [Server thread/DEBUG] [pointblank/]: 30849 - obtained hit result in 1ms
+[02Jan2025 22:13:50.849] [Server thread/DEBUG] [pointblank/]: 30849 obtained hit results
+[02Jan2025 22:13:50.849] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b93b7ab
+[02Jan2025 22:13:50.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48]
+[02Jan2025 22:13:51.743] [Server thread/DEBUG] [pointblank/]: 31743 handling client fire request
+[02Jan2025 22:13:51.743] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:13:51.743] [Server thread/DEBUG] [pointblank/]: 31743 - obtained hit result in 0ms
+[02Jan2025 22:13:51.743] [Server thread/DEBUG] [pointblank/]: 31743 obtained hit results
+[02Jan2025 22:13:51.743] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@264eee0f
+[02Jan2025 22:13:51.744] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.12, y=72.50, z=516.48]
+[02Jan2025 22:13:53.047] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:13:54.998] [Server thread/DEBUG] [pointblank/]: 34998 handling client fire request
+[02Jan2025 22:13:54.998] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:13:54.998] [Server thread/DEBUG] [pointblank/]: 34998 - obtained hit result in 0ms
+[02Jan2025 22:13:54.998] [Server thread/DEBUG] [pointblank/]: 34998 obtained hit results
+[02Jan2025 22:13:54.998] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3f9ffbd7
+[02Jan2025 22:13:54.998] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30]
+[02Jan2025 22:13:55.194] [Server thread/DEBUG] [pointblank/]: 35194 handling client fire request
+[02Jan2025 22:13:55.194] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:13:55.194] [Server thread/DEBUG] [pointblank/]: 35194 - obtained hit result in 0ms
+[02Jan2025 22:13:55.194] [Server thread/DEBUG] [pointblank/]: 35194 obtained hit results
+[02Jan2025 22:13:55.194] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2cbec6
+[02Jan2025 22:13:55.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30]
+[02Jan2025 22:13:55.345] [Server thread/DEBUG] [pointblank/]: 35345 handling client fire request
+[02Jan2025 22:13:55.345] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:13:55.345] [Server thread/DEBUG] [pointblank/]: 35345 - obtained hit result in 0ms
+[02Jan2025 22:13:55.345] [Server thread/DEBUG] [pointblank/]: 35345 obtained hit results
+[02Jan2025 22:13:55.345] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7142adf0
+[02Jan2025 22:13:55.345] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30]
+[02Jan2025 22:13:56.447] [Server thread/DEBUG] [pointblank/]: 36447 handling client fire request
+[02Jan2025 22:13:56.447] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:13:56.447] [Server thread/DEBUG] [pointblank/]: 36447 - obtained hit result in 0ms
+[02Jan2025 22:13:56.447] [Server thread/DEBUG] [pointblank/]: 36447 obtained hit results
+[02Jan2025 22:13:56.448] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@8acf3c6
+[02Jan2025 22:13:56.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30]
+[02Jan2025 22:13:56.792] [Server thread/DEBUG] [pointblank/]: 36792 handling client fire request
+[02Jan2025 22:13:56.792] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:13:56.792] [Server thread/DEBUG] [pointblank/]: 36792 - obtained hit result in 0ms
+[02Jan2025 22:13:56.792] [Server thread/DEBUG] [pointblank/]: 36792 obtained hit results
+[02Jan2025 22:13:56.792] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@27d20ab3
+[02Jan2025 22:13:56.792] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30]
+[02Jan2025 22:13:57.394] [Server thread/DEBUG] [pointblank/]: 37394 handling client fire request
+[02Jan2025 22:13:57.395] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:13:57.395] [Server thread/DEBUG] [pointblank/]: 37395 - obtained hit result in 0ms
+[02Jan2025 22:13:57.395] [Server thread/DEBUG] [pointblank/]: 37395 obtained hit results
+[02Jan2025 22:13:57.395] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@542099e
+[02Jan2025 22:13:57.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30]
+[02Jan2025 22:13:57.998] [Server thread/DEBUG] [pointblank/]: 37998 handling client fire request
+[02Jan2025 22:13:57.999] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:13:57.999] [Server thread/DEBUG] [pointblank/]: 37999 - obtained hit result in 0ms
+[02Jan2025 22:13:57.999] [Server thread/DEBUG] [pointblank/]: 37999 obtained hit results
+[02Jan2025 22:13:57.999] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@329cd8b7
+[02Jan2025 22:13:57.999] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.25, y=72.50, z=516.30]
+[02Jan2025 22:13:59.109] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:14:01.011] [Server thread/DEBUG] [pointblank/]: 41011 handling client fire request
+[02Jan2025 22:14:01.011] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:14:01.011] [Server thread/DEBUG] [pointblank/]: 41011 - obtained hit result in 0ms
+[02Jan2025 22:14:01.011] [Server thread/DEBUG] [pointblank/]: 41011 obtained hit results
+[02Jan2025 22:14:01.011] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6215de50
+[02Jan2025 22:14:01.012] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:01.197] [Server thread/DEBUG] [pointblank/]: 41197 handling client fire request
+[02Jan2025 22:14:01.197] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:14:01.197] [Server thread/DEBUG] [pointblank/]: 41197 - obtained hit result in 0ms
+[02Jan2025 22:14:01.197] [Server thread/DEBUG] [pointblank/]: 41197 obtained hit results
+[02Jan2025 22:14:01.197] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7c8fe69c
+[02Jan2025 22:14:01.198] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:01.948] [Server thread/DEBUG] [pointblank/]: 41948 handling client fire request
+[02Jan2025 22:14:01.948] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:14:01.948] [Server thread/DEBUG] [pointblank/]: 41948 - obtained hit result in 0ms
+[02Jan2025 22:14:01.948] [Server thread/DEBUG] [pointblank/]: 41948 obtained hit results
+[02Jan2025 22:14:01.948] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@487be342
+[02Jan2025 22:14:01.948] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:02.547] [Server thread/DEBUG] [pointblank/]: 42547 handling client fire request
+[02Jan2025 22:14:02.548] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:14:02.548] [Server thread/DEBUG] [pointblank/]: 42548 - obtained hit result in 0ms
+[02Jan2025 22:14:02.548] [Server thread/DEBUG] [pointblank/]: 42548 obtained hit results
+[02Jan2025 22:14:02.548] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7633cb64
+[02Jan2025 22:14:02.548] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:03.249] [Server thread/DEBUG] [pointblank/]: 43249 handling client fire request
+[02Jan2025 22:14:03.249] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:14:03.249] [Server thread/DEBUG] [pointblank/]: 43249 - obtained hit result in 0ms
+[02Jan2025 22:14:03.249] [Server thread/DEBUG] [pointblank/]: 43249 obtained hit results
+[02Jan2025 22:14:03.249] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38bb07cb
+[02Jan2025 22:14:03.250] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:03.491] [Server thread/DEBUG] [pointblank/]: 43491 handling client fire request
+[02Jan2025 22:14:03.491] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:14:03.491] [Server thread/DEBUG] [pointblank/]: 43491 - obtained hit result in 0ms
+[02Jan2025 22:14:03.491] [Server thread/DEBUG] [pointblank/]: 43491 obtained hit results
+[02Jan2025 22:14:03.491] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f9e675f
+[02Jan2025 22:14:03.492] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:03.696] [Server thread/DEBUG] [pointblank/]: 43696 handling client fire request
+[02Jan2025 22:14:03.696] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:14:03.696] [Server thread/DEBUG] [pointblank/]: 43696 - obtained hit result in 0ms
+[02Jan2025 22:14:03.696] [Server thread/DEBUG] [pointblank/]: 43696 obtained hit results
+[02Jan2025 22:14:03.696] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@529f5043
+[02Jan2025 22:14:03.696] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:04.356] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:14:06.295] [Server thread/DEBUG] [pointblank/]: 46295 handling client fire request
+[02Jan2025 22:14:06.295] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:14:06.295] [Server thread/DEBUG] [pointblank/]: 46295 - obtained hit result in 0ms
+[02Jan2025 22:14:06.295] [Server thread/DEBUG] [pointblank/]: 46295 obtained hit results
+[02Jan2025 22:14:06.295] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@105aab42
+[02Jan2025 22:14:06.296] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:06.496] [Server thread/DEBUG] [pointblank/]: 46496 handling client fire request
+[02Jan2025 22:14:06.496] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:14:06.496] [Server thread/DEBUG] [pointblank/]: 46496 - obtained hit result in 0ms
+[02Jan2025 22:14:06.496] [Server thread/DEBUG] [pointblank/]: 46496 obtained hit results
+[02Jan2025 22:14:06.496] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6129f99d
+[02Jan2025 22:14:06.496] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:06.646] [Server thread/DEBUG] [pointblank/]: 46646 handling client fire request
+[02Jan2025 22:14:06.646] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:14:06.646] [Server thread/DEBUG] [pointblank/]: 46646 - obtained hit result in 0ms
+[02Jan2025 22:14:06.646] [Server thread/DEBUG] [pointblank/]: 46646 obtained hit results
+[02Jan2025 22:14:06.646] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1879681d
+[02Jan2025 22:14:06.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:07.444] [Server thread/DEBUG] [pointblank/]: 47444 handling client fire request
+[02Jan2025 22:14:07.444] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:14:07.444] [Server thread/DEBUG] [pointblank/]: 47444 - obtained hit result in 0ms
+[02Jan2025 22:14:07.444] [Server thread/DEBUG] [pointblank/]: 47444 obtained hit results
+[02Jan2025 22:14:07.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@57c7c3aa
+[02Jan2025 22:14:07.445] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:08.051] [Server thread/DEBUG] [pointblank/]: 48051 handling client fire request
+[02Jan2025 22:14:08.051] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:14:08.051] [Server thread/DEBUG] [pointblank/]: 48051 - obtained hit result in 0ms
+[02Jan2025 22:14:08.051] [Server thread/DEBUG] [pointblank/]: 48051 obtained hit results
+[02Jan2025 22:14:08.051] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4dc1b941
+[02Jan2025 22:14:08.051] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:08.549] [Server thread/DEBUG] [pointblank/]: 48549 handling client fire request
+[02Jan2025 22:14:08.549] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:14:08.549] [Server thread/DEBUG] [pointblank/]: 48549 - obtained hit result in 0ms
+[02Jan2025 22:14:08.549] [Server thread/DEBUG] [pointblank/]: 48549 obtained hit results
+[02Jan2025 22:14:08.549] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6841fed2
+[02Jan2025 22:14:08.549] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:09.051] [Server thread/DEBUG] [pointblank/]: 49051 handling client fire request
+[02Jan2025 22:14:09.052] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:14:09.052] [Server thread/DEBUG] [pointblank/]: 49052 - obtained hit result in 0ms
+[02Jan2025 22:14:09.052] [Server thread/DEBUG] [pointblank/]: 49052 obtained hit results
+[02Jan2025 22:14:09.052] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b66caa9
+[02Jan2025 22:14:09.052] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:09.895] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:14:11.848] [Server thread/DEBUG] [pointblank/]: 51848 handling client fire request
+[02Jan2025 22:14:11.849] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:14:11.849] [Server thread/DEBUG] [pointblank/]: 51849 - obtained hit result in 0ms
+[02Jan2025 22:14:11.849] [Server thread/DEBUG] [pointblank/]: 51849 obtained hit results
+[02Jan2025 22:14:11.849] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a22690e
+[02Jan2025 22:14:11.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:12.046] [Server thread/DEBUG] [pointblank/]: 52046 handling client fire request
+[02Jan2025 22:14:12.046] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:14:12.046] [Server thread/DEBUG] [pointblank/]: 52046 - obtained hit result in 0ms
+[02Jan2025 22:14:12.046] [Server thread/DEBUG] [pointblank/]: 52046 obtained hit results
+[02Jan2025 22:14:12.046] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6f287a32
+[02Jan2025 22:14:12.047] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:12.194] [Server thread/DEBUG] [pointblank/]: 52194 handling client fire request
+[02Jan2025 22:14:12.194] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:14:12.194] [Server thread/DEBUG] [pointblank/]: 52194 - obtained hit result in 0ms
+[02Jan2025 22:14:12.194] [Server thread/DEBUG] [pointblank/]: 52194 obtained hit results
+[02Jan2025 22:14:12.194] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@606d9580
+[02Jan2025 22:14:12.194] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:13.099] [Server thread/DEBUG] [pointblank/]: 53099 handling client fire request
+[02Jan2025 22:14:13.099] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:14:13.099] [Server thread/DEBUG] [pointblank/]: 53099 - obtained hit result in 0ms
+[02Jan2025 22:14:13.099] [Server thread/DEBUG] [pointblank/]: 53099 obtained hit results
+[02Jan2025 22:14:13.099] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@35e386cd
+[02Jan2025 22:14:13.099] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:14.245] [Server thread/DEBUG] [pointblank/]: 54245 handling client fire request
+[02Jan2025 22:14:14.245] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:14:14.245] [Server thread/DEBUG] [pointblank/]: 54245 - obtained hit result in 0ms
+[02Jan2025 22:14:14.245] [Server thread/DEBUG] [pointblank/]: 54245 obtained hit results
+[02Jan2025 22:14:14.245] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7c63150b
+[02Jan2025 22:14:14.245] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:14.592] [Server thread/DEBUG] [pointblank/]: 54592 handling client fire request
+[02Jan2025 22:14:14.592] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:14:14.592] [Server thread/DEBUG] [pointblank/]: 54592 - obtained hit result in 0ms
+[02Jan2025 22:14:14.593] [Server thread/DEBUG] [pointblank/]: 54593 obtained hit results
+[02Jan2025 22:14:14.593] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40e61a5c
+[02Jan2025 22:14:14.593] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:14.799] [Server thread/DEBUG] [pointblank/]: 54799 handling client fire request
+[02Jan2025 22:14:14.799] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:14:14.800] [Server thread/DEBUG] [pointblank/]: 54800 - obtained hit result in 1ms
+[02Jan2025 22:14:14.800] [Server thread/DEBUG] [pointblank/]: 54800 obtained hit results
+[02Jan2025 22:14:14.800] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7da3279c
+[02Jan2025 22:14:14.801] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=528.30, y=72.50, z=516.21]
+[02Jan2025 22:14:15.701] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:15:01.971] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[02Jan2025 22:15:01.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[02Jan2025 22:15:01.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[02Jan2025 22:15:03.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 has made the advancement [Disme A Dozen]
+[02Jan2025 22:16:36.887] [Server thread/DEBUG] [pointblank/]: 96887 handling client fire request
+[02Jan2025 22:16:36.887] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:16:36.887] [Server thread/DEBUG] [pointblank/]: 96887 - obtained hit result in 0ms
+[02Jan2025 22:16:36.887] [Server thread/DEBUG] [pointblank/]: 96887 obtained hit results
+[02Jan2025 22:16:36.887] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1897403e
+[02Jan2025 22:16:36.888] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02]
+[02Jan2025 22:16:37.041] [Server thread/DEBUG] [pointblank/]: 97041 handling client fire request
+[02Jan2025 22:16:37.041] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:16:37.041] [Server thread/DEBUG] [pointblank/]: 97041 - obtained hit result in 0ms
+[02Jan2025 22:16:37.041] [Server thread/DEBUG] [pointblank/]: 97041 obtained hit results
+[02Jan2025 22:16:37.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31d6b54
+[02Jan2025 22:16:37.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02]
+[02Jan2025 22:16:37.188] [Server thread/DEBUG] [pointblank/]: 97188 handling client fire request
+[02Jan2025 22:16:37.188] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:16:37.188] [Server thread/DEBUG] [pointblank/]: 97188 - obtained hit result in 0ms
+[02Jan2025 22:16:37.188] [Server thread/DEBUG] [pointblank/]: 97188 obtained hit results
+[02Jan2025 22:16:37.188] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@21295db9
+[02Jan2025 22:16:37.188] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02]
+[02Jan2025 22:16:37.338] [Server thread/DEBUG] [pointblank/]: 97338 handling client fire request
+[02Jan2025 22:16:37.338] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:16:37.338] [Server thread/DEBUG] [pointblank/]: 97338 - obtained hit result in 0ms
+[02Jan2025 22:16:37.338] [Server thread/DEBUG] [pointblank/]: 97338 obtained hit results
+[02Jan2025 22:16:37.338] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7c343d9d
+[02Jan2025 22:16:37.338] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02]
+[02Jan2025 22:16:37.539] [Server thread/DEBUG] [pointblank/]: 97539 handling client fire request
+[02Jan2025 22:16:37.539] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:16:37.539] [Server thread/DEBUG] [pointblank/]: 97539 - obtained hit result in 0ms
+[02Jan2025 22:16:37.539] [Server thread/DEBUG] [pointblank/]: 97539 obtained hit results
+[02Jan2025 22:16:37.539] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5477659f
+[02Jan2025 22:16:37.539] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02]
+[02Jan2025 22:16:37.690] [Server thread/DEBUG] [pointblank/]: 97690 handling client fire request
+[02Jan2025 22:16:37.690] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:16:37.690] [Server thread/DEBUG] [pointblank/]: 97690 - obtained hit result in 0ms
+[02Jan2025 22:16:37.690] [Server thread/DEBUG] [pointblank/]: 97690 obtained hit results
+[02Jan2025 22:16:37.690] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ef84b30
+[02Jan2025 22:16:37.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.45, y=63.00, z=518.02]
+[02Jan2025 22:16:38.192] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:16:39.739] [Server thread/DEBUG] [pointblank/]: 99739 handling client fire request
+[02Jan2025 22:16:39.740] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:16:39.740] [Server thread/DEBUG] [pointblank/]: 99740 - obtained hit result in 0ms
+[02Jan2025 22:16:39.740] [Server thread/DEBUG] [pointblank/]: 99740 obtained hit results
+[02Jan2025 22:16:39.740] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@758423af
+[02Jan2025 22:16:39.740] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:39.888] [Server thread/DEBUG] [pointblank/]: 99888 handling client fire request
+[02Jan2025 22:16:39.888] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:16:39.888] [Server thread/DEBUG] [pointblank/]: 99888 - obtained hit result in 0ms
+[02Jan2025 22:16:39.888] [Server thread/DEBUG] [pointblank/]: 99888 obtained hit results
+[02Jan2025 22:16:39.888] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@41eade5b
+[02Jan2025 22:16:39.888] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:40.040] [Server thread/DEBUG] [pointblank/]: 40 handling client fire request
+[02Jan2025 22:16:40.040] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:16:40.040] [Server thread/DEBUG] [pointblank/]: 40 - obtained hit result in 0ms
+[02Jan2025 22:16:40.040] [Server thread/DEBUG] [pointblank/]: 40 obtained hit results
+[02Jan2025 22:16:40.040] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@78527258
+[02Jan2025 22:16:40.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:40.189] [Server thread/DEBUG] [pointblank/]: 189 handling client fire request
+[02Jan2025 22:16:40.190] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:16:40.190] [Server thread/DEBUG] [pointblank/]: 190 - obtained hit result in 0ms
+[02Jan2025 22:16:40.190] [Server thread/DEBUG] [pointblank/]: 190 obtained hit results
+[02Jan2025 22:16:40.190] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d73bfd0
+[02Jan2025 22:16:40.190] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:40.392] [Server thread/DEBUG] [pointblank/]: 392 handling client fire request
+[02Jan2025 22:16:40.392] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:16:40.392] [Server thread/DEBUG] [pointblank/]: 392 - obtained hit result in 0ms
+[02Jan2025 22:16:40.392] [Server thread/DEBUG] [pointblank/]: 392 obtained hit results
+[02Jan2025 22:16:40.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@95ae8f1
+[02Jan2025 22:16:40.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:40.539] [Server thread/DEBUG] [pointblank/]: 539 handling client fire request
+[02Jan2025 22:16:40.539] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:16:40.539] [Server thread/DEBUG] [pointblank/]: 539 - obtained hit result in 0ms
+[02Jan2025 22:16:40.539] [Server thread/DEBUG] [pointblank/]: 539 obtained hit results
+[02Jan2025 22:16:40.539] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1192f510
+[02Jan2025 22:16:40.539] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:40.739] [Server thread/DEBUG] [pointblank/]: 739 handling client fire request
+[02Jan2025 22:16:40.739] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:16:40.739] [Server thread/DEBUG] [pointblank/]: 739 - obtained hit result in 0ms
+[02Jan2025 22:16:40.739] [Server thread/DEBUG] [pointblank/]: 739 obtained hit results
+[02Jan2025 22:16:40.739] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43bd858e
+[02Jan2025 22:16:40.739] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:41.445] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:16:43.389] [Server thread/DEBUG] [pointblank/]: 3389 handling client fire request
+[02Jan2025 22:16:43.389] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:16:43.389] [Server thread/DEBUG] [pointblank/]: 3389 - obtained hit result in 0ms
+[02Jan2025 22:16:43.389] [Server thread/DEBUG] [pointblank/]: 3389 obtained hit results
+[02Jan2025 22:16:43.389] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4be98c0b
+[02Jan2025 22:16:43.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:43.590] [Server thread/DEBUG] [pointblank/]: 3590 handling client fire request
+[02Jan2025 22:16:43.590] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:16:43.590] [Server thread/DEBUG] [pointblank/]: 3590 - obtained hit result in 0ms
+[02Jan2025 22:16:43.590] [Server thread/DEBUG] [pointblank/]: 3590 obtained hit results
+[02Jan2025 22:16:43.590] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@768f2ccf
+[02Jan2025 22:16:43.591] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:43.745] [Server thread/DEBUG] [pointblank/]: 3745 handling client fire request
+[02Jan2025 22:16:43.746] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:16:43.746] [Server thread/DEBUG] [pointblank/]: 3746 - obtained hit result in 0ms
+[02Jan2025 22:16:43.746] [Server thread/DEBUG] [pointblank/]: 3746 obtained hit results
+[02Jan2025 22:16:43.746] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38cdf36b
+[02Jan2025 22:16:43.746] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:43.945] [Server thread/DEBUG] [pointblank/]: 3945 handling client fire request
+[02Jan2025 22:16:43.946] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:16:43.946] [Server thread/DEBUG] [pointblank/]: 3946 - obtained hit result in 0ms
+[02Jan2025 22:16:43.946] [Server thread/DEBUG] [pointblank/]: 3946 obtained hit results
+[02Jan2025 22:16:43.946] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7885188a
+[02Jan2025 22:16:43.946] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:44.146] [Server thread/DEBUG] [pointblank/]: 4146 handling client fire request
+[02Jan2025 22:16:44.146] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:16:44.146] [Server thread/DEBUG] [pointblank/]: 4146 - obtained hit result in 0ms
+[02Jan2025 22:16:44.146] [Server thread/DEBUG] [pointblank/]: 4146 obtained hit results
+[02Jan2025 22:16:44.146] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6daf437b
+[02Jan2025 22:16:44.146] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:44.491] [Server thread/DEBUG] [pointblank/]: 4491 handling client fire request
+[02Jan2025 22:16:44.491] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:16:44.491] [Server thread/DEBUG] [pointblank/]: 4491 - obtained hit result in 0ms
+[02Jan2025 22:16:44.491] [Server thread/DEBUG] [pointblank/]: 4491 obtained hit results
+[02Jan2025 22:16:44.491] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5ce6be5a
+[02Jan2025 22:16:44.491] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:44.693] [Server thread/DEBUG] [pointblank/]: 4693 handling client fire request
+[02Jan2025 22:16:44.693] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:16:44.693] [Server thread/DEBUG] [pointblank/]: 4693 - obtained hit result in 0ms
+[02Jan2025 22:16:44.693] [Server thread/DEBUG] [pointblank/]: 4693 obtained hit results
+[02Jan2025 22:16:44.693] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4d4bf86
+[02Jan2025 22:16:44.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.44, y=63.00, z=517.77]
+[02Jan2025 22:16:45.341] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:16:47.289] [Server thread/DEBUG] [pointblank/]: 7289 handling client fire request
+[02Jan2025 22:16:47.289] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:16:47.289] [Server thread/DEBUG] [pointblank/]: 7289 - obtained hit result in 0ms
+[02Jan2025 22:16:47.289] [Server thread/DEBUG] [pointblank/]: 7289 obtained hit results
+[02Jan2025 22:16:47.289] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@169b041e
+[02Jan2025 22:16:47.290] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77]
+[02Jan2025 22:16:47.492] [Server thread/DEBUG] [pointblank/]: 7492 handling client fire request
+[02Jan2025 22:16:47.492] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:16:47.492] [Server thread/DEBUG] [pointblank/]: 7492 - obtained hit result in 0ms
+[02Jan2025 22:16:47.492] [Server thread/DEBUG] [pointblank/]: 7492 obtained hit results
+[02Jan2025 22:16:47.492] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@729ae55d
+[02Jan2025 22:16:47.493] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77]
+[02Jan2025 22:16:47.689] [Server thread/DEBUG] [pointblank/]: 7689 handling client fire request
+[02Jan2025 22:16:47.689] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:16:47.689] [Server thread/DEBUG] [pointblank/]: 7689 - obtained hit result in 0ms
+[02Jan2025 22:16:47.689] [Server thread/DEBUG] [pointblank/]: 7689 obtained hit results
+[02Jan2025 22:16:47.689] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f4866ae
+[02Jan2025 22:16:47.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77]
+[02Jan2025 22:16:47.888] [Server thread/DEBUG] [pointblank/]: 7888 handling client fire request
+[02Jan2025 22:16:47.888] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:16:47.888] [Server thread/DEBUG] [pointblank/]: 7888 - obtained hit result in 0ms
+[02Jan2025 22:16:47.888] [Server thread/DEBUG] [pointblank/]: 7888 obtained hit results
+[02Jan2025 22:16:47.888] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@29d58701
+[02Jan2025 22:16:47.888] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77]
+[02Jan2025 22:16:48.041] [Server thread/DEBUG] [pointblank/]: 8041 handling client fire request
+[02Jan2025 22:16:48.041] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:16:48.041] [Server thread/DEBUG] [pointblank/]: 8041 - obtained hit result in 0ms
+[02Jan2025 22:16:48.041] [Server thread/DEBUG] [pointblank/]: 8041 obtained hit results
+[02Jan2025 22:16:48.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@61bbdcd5
+[02Jan2025 22:16:48.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77]
+[02Jan2025 22:16:48.243] [Server thread/DEBUG] [pointblank/]: 8243 handling client fire request
+[02Jan2025 22:16:48.243] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:16:48.243] [Server thread/DEBUG] [pointblank/]: 8243 - obtained hit result in 0ms
+[02Jan2025 22:16:48.243] [Server thread/DEBUG] [pointblank/]: 8243 obtained hit results
+[02Jan2025 22:16:48.243] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3ba2a613
+[02Jan2025 22:16:48.243] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77]
+[02Jan2025 22:16:48.404] [Server thread/DEBUG] [pointblank/]: 8404 handling client fire request
+[02Jan2025 22:16:48.404] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:16:48.404] [Server thread/DEBUG] [pointblank/]: 8404 - obtained hit result in 0ms
+[02Jan2025 22:16:48.404] [Server thread/DEBUG] [pointblank/]: 8404 obtained hit results
+[02Jan2025 22:16:48.404] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e08b05e
+[02Jan2025 22:16:48.405] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.57, y=63.00, z=517.77]
+[02Jan2025 22:16:49.210] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:16:51.190] [Server thread/DEBUG] [pointblank/]: 11190 handling client fire request
+[02Jan2025 22:16:51.190] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 6
+[02Jan2025 22:16:51.190] [Server thread/DEBUG] [pointblank/]: 11190 - obtained hit result in 0ms
+[02Jan2025 22:16:51.190] [Server thread/DEBUG] [pointblank/]: 11190 obtained hit results
+[02Jan2025 22:16:51.190] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2389af94
+[02Jan2025 22:16:51.190] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83]
+[02Jan2025 22:16:51.439] [Server thread/DEBUG] [pointblank/]: 11439 handling client fire request
+[02Jan2025 22:16:51.439] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 5
+[02Jan2025 22:16:51.439] [Server thread/DEBUG] [pointblank/]: 11439 - obtained hit result in 0ms
+[02Jan2025 22:16:51.439] [Server thread/DEBUG] [pointblank/]: 11439 obtained hit results
+[02Jan2025 22:16:51.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@13369d91
+[02Jan2025 22:16:51.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83]
+[02Jan2025 22:16:51.644] [Server thread/DEBUG] [pointblank/]: 11644 handling client fire request
+[02Jan2025 22:16:51.644] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 4
+[02Jan2025 22:16:51.644] [Server thread/DEBUG] [pointblank/]: 11644 - obtained hit result in 0ms
+[02Jan2025 22:16:51.645] [Server thread/DEBUG] [pointblank/]: 11645 obtained hit results
+[02Jan2025 22:16:51.645] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@242927ec
+[02Jan2025 22:16:51.645] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83]
+[02Jan2025 22:16:51.790] [Server thread/DEBUG] [pointblank/]: 11790 handling client fire request
+[02Jan2025 22:16:51.791] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 3
+[02Jan2025 22:16:51.791] [Server thread/DEBUG] [pointblank/]: 11791 - obtained hit result in 0ms
+[02Jan2025 22:16:51.791] [Server thread/DEBUG] [pointblank/]: 11791 obtained hit results
+[02Jan2025 22:16:51.791] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2091ee04
+[02Jan2025 22:16:51.791] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83]
+[02Jan2025 22:16:51.991] [Server thread/DEBUG] [pointblank/]: 11991 handling client fire request
+[02Jan2025 22:16:51.992] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 2
+[02Jan2025 22:16:51.992] [Server thread/DEBUG] [pointblank/]: 11992 - obtained hit result in 0ms
+[02Jan2025 22:16:51.992] [Server thread/DEBUG] [pointblank/]: 11992 obtained hit results
+[02Jan2025 22:16:51.992] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e8a008d
+[02Jan2025 22:16:51.992] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83]
+[02Jan2025 22:16:52.341] [Server thread/DEBUG] [pointblank/]: 12341 handling client fire request
+[02Jan2025 22:16:52.341] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 1
+[02Jan2025 22:16:52.341] [Server thread/DEBUG] [pointblank/]: 12341 - obtained hit result in 0ms
+[02Jan2025 22:16:52.341] [Server thread/DEBUG] [pointblank/]: 12341 obtained hit results
+[02Jan2025 22:16:52.341] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@624497ff
+[02Jan2025 22:16:52.342] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83]
+[02Jan2025 22:16:52.441] [Server thread/DEBUG] [pointblank/]: 12441 handling client fire request
+[02Jan2025 22:16:52.441] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 0
+[02Jan2025 22:16:52.441] [Server thread/DEBUG] [pointblank/]: 12441 - obtained hit result in 0ms
+[02Jan2025 22:16:52.441] [Server thread/DEBUG] [pointblank/]: 12441 obtained hit results
+[02Jan2025 22:16:52.441] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@250d221b
+[02Jan2025 22:16:52.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83] sends hit scan notification to ServerPlayer['DocTom02'/101, l='ServerLevel[aaa]', x=519.56, y=63.00, z=517.83]
+[02Jan2025 22:16:53.842] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1713594529 to 7
+[02Jan2025 22:18:40.263] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[02Jan2025 22:18:40.263] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[02Jan2025 22:20:01.963] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[02Jan2025 22:20:01.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[02Jan2025 22:20:01.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[02Jan2025 22:20:50.414] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[02Jan2025 22:25:01.802] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[02Jan2025 22:25:01.860] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[02Jan2025 22:25:01.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[02Jan2025 22:25:02.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[02Jan2025 22:27:05.047] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[02Jan2025 22:27:05.049] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[02Jan2025 22:27:05.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported DocTom02 to -73.500000, 65.500000, 726.500000]
+[02Jan2025 22:27:05.846] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[02Jan2025 22:29:36.838] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[02Jan2025 22:29:46.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DocTom02 lost connection: Disconnected
+[02Jan2025 22:29:46.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 left the game
+[02Jan2025 22:29:46.437] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DocTom02
+[02Jan2025 22:29:46.437] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DocTom02
