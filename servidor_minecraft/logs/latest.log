@@ -3077,3 +3077,4 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Jan2025 21:33:09.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Bunker Zombie'/200442, l='ServerLevel[aaa]', x=3.65, y=-26.00, z=579.84] died: Bunker Zombie burned to death
 [03Jan2025 21:33:10.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Bunker Zombie'/202140, l='ServerLevel[aaa]', x=4.48, y=-22.95, z=579.57] died: Bunker Zombie burned to death
 [03Jan2025 21:33:11.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported DocTom02 to -73.500000, 65.500000, 726.500000]
+[03Jan2025 21:42:10.322] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/218446, l='ServerLevel[aaa]', x=31.50, y=48.00, z=670.50]
