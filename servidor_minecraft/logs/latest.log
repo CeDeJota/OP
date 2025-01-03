@@ -4451,3 +4451,7 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Jan2025 23:29:06.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Bunker Zombie'/470736, l='ServerLevel[aaa]', x=4.30, y=-25.40, z=580.68] died: Bunker Zombie burned to death
 [03Jan2025 23:29:24.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Bunker Zombie'/472316, l='ServerLevel[aaa]', x=3.85, y=-33.00, z=581.41] died: Bunker Zombie burned to death
 [03Jan2025 23:29:27.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Bunker Zombie'/472254, l='ServerLevel[aaa]', x=7.78, y=-34.00, z=582.29] died: Bunker Zombie burned to death
+[03Jan2025 23:29:29.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DocTom02: Teleported DocTom02 to -73.500000, 65.500000, 726.500000]
+[03Jan2025 23:34:20.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DocTom02 lost connection: Disconnected
+[03Jan2025 23:34:20.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DocTom02 left the game
+[03Jan2025 23:34:20.876] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DocTom02
