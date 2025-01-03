@@ -21026,3 +21026,12 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Jan2025 04:20:01.926] [IO-Worker-321/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-322
 [03Jan2025 04:20:01.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
 [03Jan2025 04:20:01.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[03Jan2025 04:25:01.925] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-323
+[03Jan2025 04:25:01.926] [IO-Worker-323/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-324
+[03Jan2025 04:25:01.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[03Jan2025 04:25:01.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
+[03Jan2025 04:30:01.927] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-325
+[03Jan2025 04:30:01.927] [IO-Worker-325/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-326
+[03Jan2025 04:30:01.930] [IO-Worker-326/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-327
+[03Jan2025 04:30:01.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save aaa
+[03Jan2025 04:30:01.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete aaa
