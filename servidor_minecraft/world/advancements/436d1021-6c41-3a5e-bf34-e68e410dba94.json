@@ -7431,5 +7431,245 @@
     },
     "done": false
   },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-01-03 19:50:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-01-03 19:49:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-03 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-03 19:50:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-03 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_hull": {
+    "criteria": {
+      "has_item": "2025-01-03 19:47:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:47:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/brass_window": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-01-03 19:50:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-03 20:01:13 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-01-03 19:50:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_door": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-01-03 19:50:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_support": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:47:05 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-01-03 19:49:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-01-03 19:48:09 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-01-03 19:50:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
