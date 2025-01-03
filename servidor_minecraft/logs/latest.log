@@ -1137,3 +1137,4 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Jan2025 19:00:17.009] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from CeDeJota
 [03Jan2025 19:00:17.082] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CeDeJota (18)
 [03Jan2025 19:00:17.085] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CeDeJota
+[03Jan2025 19:07:34.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Set own game mode to Creative Mode]
