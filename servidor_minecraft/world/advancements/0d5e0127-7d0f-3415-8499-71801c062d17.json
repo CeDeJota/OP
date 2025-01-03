@@ -7854,6 +7854,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-03 23:18:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_bowl": {
     "criteria": {
       "has_terracotta_bowl": "2025-01-03 22:07:21 +0000"
