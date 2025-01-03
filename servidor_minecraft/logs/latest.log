@@ -1602,3 +1602,8 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Jan2025 20:13:58.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota burned to death
 [03Jan2025 20:13:59.758] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [03Jan2025 20:14:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -72.500000, 64.500000, 726.500000]
+[03Jan2025 20:25:14.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to 7.500000, -23.500000, 580.500000]
+[03Jan2025 20:25:15.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45664, l='ServerLevel[aaa]', x=-71.50, y=38.00, z=521.50]
+[03Jan2025 20:25:19.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to -72.500000, 64.500000, 727.500000]
+[03Jan2025 20:25:26.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CeDeJota: Teleported CeDeJota to 7.500000, -23.500000, 580.500000]
+[03Jan2025 20:26:05.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota has made the advancement [Crops of the Wild]
