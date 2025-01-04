@@ -4,3 +4,6 @@
 [04Jan2025 00:28:50.568] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from CeDeJota
 [04Jan2025 00:28:50.581] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CeDeJota (18)
 [04Jan2025 00:28:50.582] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CeDeJota
+[04Jan2025 00:36:20.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CeDeJota lost connection: Disconnected
+[04Jan2025 00:36:20.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CeDeJota left the game
+[04Jan2025 00:36:20.578] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CeDeJota
